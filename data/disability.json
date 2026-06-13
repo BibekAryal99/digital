@@ -1,0 +1,42 @@
+[
+  {
+    "citizen_id": "cit-005",
+    "disability_type": "PHYSICAL",
+    "severity_body": 4,
+    "severity_activity": 4,
+    "severity_participation": 4,
+    "certificate_no": "DIS-60394",
+    "issuing_hospital": "Panchthar District Hospital",
+    "expiry_date": "2028-04-16"
+  },
+  {
+    "citizen_id": "cit-010",
+    "disability_type": "PHYSICAL",
+    "severity_body": 0,
+    "severity_activity": 2,
+    "severity_participation": 2,
+    "certificate_no": "DIS-20057",
+    "issuing_hospital": "Panchthar District Hospital",
+    "expiry_date": "2028-10-20"
+  },
+  {
+    "citizen_id": "cit-021",
+    "disability_type": "INTELLECTUAL",
+    "severity_body": 4,
+    "severity_activity": 0,
+    "severity_participation": 2,
+    "certificate_no": "DIS-70521",
+    "issuing_hospital": "Panchthar District Hospital",
+    "expiry_date": "2028-04-05"
+  },
+  {
+    "citizen_id": "cit-029",
+    "disability_type": "MENTAL",
+    "severity_body": 3,
+    "severity_activity": 2,
+    "severity_participation": 2,
+    "certificate_no": "DIS-87518",
+    "issuing_hospital": "Panchthar District Hospital",
+    "expiry_date": "2027-02-25"
+  }
+]

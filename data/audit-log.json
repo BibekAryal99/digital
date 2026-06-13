@@ -1,0 +1,482 @@
+[
+  {
+    "id": "evt-0060",
+    "event_type": "APPROVED",
+    "citizen_id_masked": "cit-003****",
+    "acted_by_role": "CENTRAL_ADMIN",
+    "jurisdiction": "Kummayak Ward 1",
+    "timestamp": "2026-06-11T15:30:00Z"
+  },
+  {
+    "id": "evt-0009",
+    "event_type": "REGISTERED",
+    "citizen_id_masked": "cit-022****",
+    "acted_by_role": "WARD_ADMIN",
+    "jurisdiction": "Kummayak Ward 4",
+    "timestamp": "2026-06-11T06:30:00Z"
+  },
+  {
+    "id": "evt-0018",
+    "event_type": "REJECTED",
+    "citizen_id_masked": "cit-029****",
+    "acted_by_role": "LOCAL_BODY_ADMIN",
+    "jurisdiction": "Kummayak Ward 4",
+    "timestamp": "2026-06-11T01:30:00Z"
+  },
+  {
+    "id": "evt-0003",
+    "event_type": "APPROVED",
+    "citizen_id_masked": "cit-012****",
+    "acted_by_role": "CENTRAL_ADMIN",
+    "jurisdiction": "Central",
+    "timestamp": "2026-06-10T20:30:00Z"
+  },
+  {
+    "id": "evt-0028",
+    "event_type": "ID_CARD_ISSUED",
+    "citizen_id_masked": "cit-013****",
+    "acted_by_role": "SYSTEM_ADMIN",
+    "jurisdiction": "Kummayak Rural Municipality",
+    "timestamp": "2026-06-10T01:30:00Z"
+  },
+  {
+    "id": "evt-0007",
+    "event_type": "CONFLICT_RESOLVED",
+    "citizen_id_masked": "cit-009****",
+    "acted_by_role": "SYSTEM_ADMIN",
+    "jurisdiction": "Central",
+    "timestamp": "2026-06-09T05:30:00Z"
+  },
+  {
+    "id": "evt-0016",
+    "event_type": "ID_CARD_ISSUED",
+    "citizen_id_masked": "cit-009****",
+    "acted_by_role": "SYSTEM_ADMIN",
+    "jurisdiction": "Central",
+    "timestamp": "2026-06-08T16:30:00Z"
+  },
+  {
+    "id": "evt-0025",
+    "event_type": "CONFLICT_RESOLVED",
+    "citizen_id_masked": "cit-031****",
+    "acted_by_role": "SYSTEM_ADMIN",
+    "jurisdiction": "Kummayak Ward 4",
+    "timestamp": "2026-06-08T14:30:00Z"
+  },
+  {
+    "id": "evt-0032",
+    "event_type": "REGISTERED",
+    "citizen_id_masked": "cit-026****",
+    "acted_by_role": "WARD_ADMIN",
+    "jurisdiction": "Kummayak Ward 4",
+    "timestamp": "2026-06-07T08:30:00Z"
+  },
+  {
+    "id": "evt-0050",
+    "event_type": "DATA_PURGED",
+    "citizen_id_masked": "cit-008****",
+    "acted_by_role": "CENTRAL_ADMIN",
+    "jurisdiction": "Kummayak Rural Municipality",
+    "timestamp": "2026-06-06T23:30:00Z"
+  },
+  {
+    "id": "evt-0033",
+    "event_type": "PASSWORD_RESET",
+    "citizen_id_masked": "cit-022****",
+    "acted_by_role": "SYSTEM_ADMIN",
+    "jurisdiction": "Koshi Province",
+    "timestamp": "2026-06-06T20:30:00Z"
+  },
+  {
+    "id": "evt-0004",
+    "event_type": "APPROVED",
+    "citizen_id_masked": "cit-008****",
+    "acted_by_role": "PROVINCE_ADMIN",
+    "jurisdiction": "Kummayak Ward 1",
+    "timestamp": "2026-06-06T07:30:00Z"
+  },
+  {
+    "id": "evt-0034",
+    "event_type": "ID_CARD_ISSUED",
+    "citizen_id_masked": "cit-009****",
+    "acted_by_role": "SYSTEM_ADMIN",
+    "jurisdiction": "Kummayak Rural Municipality",
+    "timestamp": "2026-06-06T06:30:00Z"
+  },
+  {
+    "id": "evt-0039",
+    "event_type": "REGISTERED",
+    "citizen_id_masked": "cit-015****",
+    "acted_by_role": "SYSTEM_ADMIN",
+    "jurisdiction": "Koshi Province",
+    "timestamp": "2026-06-05T22:30:00Z"
+  },
+  {
+    "id": "evt-0020",
+    "event_type": "ID_CARD_ISSUED",
+    "citizen_id_masked": "cit-011****",
+    "acted_by_role": "SYSTEM_ADMIN",
+    "jurisdiction": "Kummayak Rural Municipality",
+    "timestamp": "2026-06-05T02:30:00Z"
+  },
+  {
+    "id": "evt-0046",
+    "event_type": "CONFLICT_RESOLVED",
+    "citizen_id_masked": "cit-023****",
+    "acted_by_role": "SYSTEM_ADMIN",
+    "jurisdiction": "Koshi Province",
+    "timestamp": "2026-06-05T00:30:00Z"
+  },
+  {
+    "id": "evt-0052",
+    "event_type": "CONFLICT_RESOLVED",
+    "citizen_id_masked": "cit-029****",
+    "acted_by_role": "CENTRAL_ADMIN",
+    "jurisdiction": "Kummayak Ward 1",
+    "timestamp": "2026-06-04T14:30:00Z"
+  },
+  {
+    "id": "evt-0043",
+    "event_type": "REGISTERED",
+    "citizen_id_masked": "cit-031****",
+    "acted_by_role": "LOCAL_BODY_ADMIN",
+    "jurisdiction": "Central",
+    "timestamp": "2026-06-04T08:30:00Z"
+  },
+  {
+    "id": "evt-0047",
+    "event_type": "CONFLICT_RESOLVED",
+    "citizen_id_masked": "cit-016****",
+    "acted_by_role": "SYSTEM_ADMIN",
+    "jurisdiction": "Kummayak Rural Municipality",
+    "timestamp": "2026-06-03T14:30:00Z"
+  },
+  {
+    "id": "evt-0054",
+    "event_type": "REJECTED",
+    "citizen_id_masked": "cit-016****",
+    "acted_by_role": "WARD_ADMIN",
+    "jurisdiction": "Central",
+    "timestamp": "2026-06-03T13:30:00Z"
+  },
+  {
+    "id": "evt-0019",
+    "event_type": "DATA_PURGED",
+    "citizen_id_masked": "cit-019****",
+    "acted_by_role": "SYSTEM_ADMIN",
+    "jurisdiction": "Koshi Province",
+    "timestamp": "2026-06-02T14:30:00Z"
+  },
+  {
+    "id": "evt-0017",
+    "event_type": "REJECTED",
+    "citizen_id_masked": "cit-021****",
+    "acted_by_role": "CENTRAL_ADMIN",
+    "jurisdiction": "Kummayak Ward 4",
+    "timestamp": "2026-06-01T19:30:00Z"
+  },
+  {
+    "id": "evt-0006",
+    "event_type": "CONFLICT_RESOLVED",
+    "citizen_id_masked": "cit-006****",
+    "acted_by_role": "LOCAL_BODY_ADMIN",
+    "jurisdiction": "Central",
+    "timestamp": "2026-06-01T11:30:00Z"
+  },
+  {
+    "id": "evt-0005",
+    "event_type": "REJECTED",
+    "citizen_id_masked": "cit-021****",
+    "acted_by_role": "PROVINCE_ADMIN",
+    "jurisdiction": "Central",
+    "timestamp": "2026-06-01T02:30:00Z"
+  },
+  {
+    "id": "evt-0049",
+    "event_type": "ID_CARD_ISSUED",
+    "citizen_id_masked": "cit-031****",
+    "acted_by_role": "SYSTEM_ADMIN",
+    "jurisdiction": "Kummayak Rural Municipality",
+    "timestamp": "2026-05-31T22:30:00Z"
+  },
+  {
+    "id": "evt-0012",
+    "event_type": "PASSWORD_RESET",
+    "citizen_id_masked": "cit-020****",
+    "acted_by_role": "LOCAL_BODY_ADMIN",
+    "jurisdiction": "Koshi Province",
+    "timestamp": "2026-05-31T12:30:00Z"
+  },
+  {
+    "id": "evt-0037",
+    "event_type": "UPDATED",
+    "citizen_id_masked": "cit-022****",
+    "acted_by_role": "CENTRAL_ADMIN",
+    "jurisdiction": "Central",
+    "timestamp": "2026-05-31T01:30:00Z"
+  },
+  {
+    "id": "evt-0041",
+    "event_type": "REJECTED",
+    "citizen_id_masked": "cit-008****",
+    "acted_by_role": "WARD_ADMIN",
+    "jurisdiction": "Koshi Province",
+    "timestamp": "2026-05-30T19:30:00Z"
+  },
+  {
+    "id": "evt-0044",
+    "event_type": "PASSWORD_RESET",
+    "citizen_id_masked": "cit-021****",
+    "acted_by_role": "SYSTEM_ADMIN",
+    "jurisdiction": "Koshi Province",
+    "timestamp": "2026-05-30T19:30:00Z"
+  },
+  {
+    "id": "evt-0048",
+    "event_type": "CONFLICT_RESOLVED",
+    "citizen_id_masked": "cit-020****",
+    "acted_by_role": "LOCAL_BODY_ADMIN",
+    "jurisdiction": "Koshi Province",
+    "timestamp": "2026-05-30T16:30:00Z"
+  },
+  {
+    "id": "evt-0055",
+    "event_type": "REGISTERED",
+    "citizen_id_masked": "cit-015****",
+    "acted_by_role": "WARD_ADMIN",
+    "jurisdiction": "Koshi Province",
+    "timestamp": "2026-05-30T02:30:00Z"
+  },
+  {
+    "id": "evt-0014",
+    "event_type": "PASSWORD_RESET",
+    "citizen_id_masked": "cit-027****",
+    "acted_by_role": "CENTRAL_ADMIN",
+    "jurisdiction": "Kummayak Ward 1",
+    "timestamp": "2026-05-29T16:30:00Z"
+  },
+  {
+    "id": "evt-0051",
+    "event_type": "REGISTERED",
+    "citizen_id_masked": "cit-019****",
+    "acted_by_role": "PROVINCE_ADMIN",
+    "jurisdiction": "Kummayak Ward 4",
+    "timestamp": "2026-05-29T10:30:00Z"
+  },
+  {
+    "id": "evt-0023",
+    "event_type": "REJECTED",
+    "citizen_id_masked": "cit-030****",
+    "acted_by_role": "LOCAL_BODY_ADMIN",
+    "jurisdiction": "Central",
+    "timestamp": "2026-05-29T03:30:00Z"
+  },
+  {
+    "id": "evt-0036",
+    "event_type": "CONFLICT_RESOLVED",
+    "citizen_id_masked": "cit-032****",
+    "acted_by_role": "CENTRAL_ADMIN",
+    "jurisdiction": "Kummayak Ward 4",
+    "timestamp": "2026-05-28T11:30:00Z"
+  },
+  {
+    "id": "evt-0030",
+    "event_type": "APPROVED",
+    "citizen_id_masked": "cit-008****",
+    "acted_by_role": "WARD_ADMIN",
+    "jurisdiction": "Koshi Province",
+    "timestamp": "2026-05-28T06:30:00Z"
+  },
+  {
+    "id": "evt-0022",
+    "event_type": "PASSWORD_RESET",
+    "citizen_id_masked": "cit-020****",
+    "acted_by_role": "WARD_ADMIN",
+    "jurisdiction": "Kummayak Ward 4",
+    "timestamp": "2026-05-27T10:30:00Z"
+  },
+  {
+    "id": "evt-0015",
+    "event_type": "ID_CARD_ISSUED",
+    "citizen_id_masked": "cit-010****",
+    "acted_by_role": "PROVINCE_ADMIN",
+    "jurisdiction": "Kummayak Rural Municipality",
+    "timestamp": "2026-05-27T04:30:00Z"
+  },
+  {
+    "id": "evt-0026",
+    "event_type": "APPROVED",
+    "citizen_id_masked": "cit-028****",
+    "acted_by_role": "PROVINCE_ADMIN",
+    "jurisdiction": "Kummayak Rural Municipality",
+    "timestamp": "2026-05-27T00:30:00Z"
+  },
+  {
+    "id": "evt-0042",
+    "event_type": "APPROVED",
+    "citizen_id_masked": "cit-027****",
+    "acted_by_role": "CENTRAL_ADMIN",
+    "jurisdiction": "Kummayak Ward 1",
+    "timestamp": "2026-05-26T16:30:00Z"
+  },
+  {
+    "id": "evt-0013",
+    "event_type": "UPDATED",
+    "citizen_id_masked": "cit-030****",
+    "acted_by_role": "WARD_ADMIN",
+    "jurisdiction": "Kummayak Ward 1",
+    "timestamp": "2026-05-25T10:30:00Z"
+  },
+  {
+    "id": "evt-0001",
+    "event_type": "APPROVED",
+    "citizen_id_masked": "cit-005****",
+    "acted_by_role": "PROVINCE_ADMIN",
+    "jurisdiction": "Kummayak Ward 4",
+    "timestamp": "2026-05-25T00:30:00Z"
+  },
+  {
+    "id": "evt-0021",
+    "event_type": "PASSWORD_RESET",
+    "citizen_id_masked": "cit-011****",
+    "acted_by_role": "SYSTEM_ADMIN",
+    "jurisdiction": "Koshi Province",
+    "timestamp": "2026-05-22T22:30:00Z"
+  },
+  {
+    "id": "evt-0035",
+    "event_type": "CONFLICT_RESOLVED",
+    "citizen_id_masked": "cit-026****",
+    "acted_by_role": "SYSTEM_ADMIN",
+    "jurisdiction": "Kummayak Rural Municipality",
+    "timestamp": "2026-05-22T13:30:00Z"
+  },
+  {
+    "id": "evt-0059",
+    "event_type": "UPDATED",
+    "citizen_id_masked": "cit-004****",
+    "acted_by_role": "SYSTEM_ADMIN",
+    "jurisdiction": "Kummayak Ward 1",
+    "timestamp": "2026-05-21T09:30:00Z"
+  },
+  {
+    "id": "evt-0045",
+    "event_type": "PASSWORD_RESET",
+    "citizen_id_masked": "cit-012****",
+    "acted_by_role": "SYSTEM_ADMIN",
+    "jurisdiction": "Kummayak Rural Municipality",
+    "timestamp": "2026-05-20T21:30:00Z"
+  },
+  {
+    "id": "evt-0056",
+    "event_type": "UPDATED",
+    "citizen_id_masked": "cit-031****",
+    "acted_by_role": "LOCAL_BODY_ADMIN",
+    "jurisdiction": "Kummayak Ward 4",
+    "timestamp": "2026-05-20T17:30:00Z"
+  },
+  {
+    "id": "evt-0027",
+    "event_type": "REGISTERED",
+    "citizen_id_masked": "cit-024****",
+    "acted_by_role": "CENTRAL_ADMIN",
+    "jurisdiction": "Kummayak Ward 4",
+    "timestamp": "2026-05-19T21:30:00Z"
+  },
+  {
+    "id": "evt-0040",
+    "event_type": "APPROVED",
+    "citizen_id_masked": "cit-025****",
+    "acted_by_role": "LOCAL_BODY_ADMIN",
+    "jurisdiction": "Kummayak Ward 4",
+    "timestamp": "2026-05-19T18:30:00Z"
+  },
+  {
+    "id": "evt-0038",
+    "event_type": "PASSWORD_RESET",
+    "citizen_id_masked": "cit-002****",
+    "acted_by_role": "PROVINCE_ADMIN",
+    "jurisdiction": "Central",
+    "timestamp": "2026-05-19T13:30:00Z"
+  },
+  {
+    "id": "evt-0024",
+    "event_type": "REGISTERED",
+    "citizen_id_masked": "cit-004****",
+    "acted_by_role": "PROVINCE_ADMIN",
+    "jurisdiction": "Koshi Province",
+    "timestamp": "2026-05-18T17:30:00Z"
+  },
+  {
+    "id": "evt-0031",
+    "event_type": "ID_CARD_ISSUED",
+    "citizen_id_masked": "cit-022****",
+    "acted_by_role": "LOCAL_BODY_ADMIN",
+    "jurisdiction": "Kummayak Ward 1",
+    "timestamp": "2026-05-18T12:30:00Z"
+  },
+  {
+    "id": "evt-0008",
+    "event_type": "APPROVED",
+    "citizen_id_masked": "cit-011****",
+    "acted_by_role": "LOCAL_BODY_ADMIN",
+    "jurisdiction": "Central",
+    "timestamp": "2026-05-18T09:30:00Z"
+  },
+  {
+    "id": "evt-0053",
+    "event_type": "CONFLICT_RESOLVED",
+    "citizen_id_masked": "cit-018****",
+    "acted_by_role": "LOCAL_BODY_ADMIN",
+    "jurisdiction": "Kummayak Ward 4",
+    "timestamp": "2026-05-17T22:30:00Z"
+  },
+  {
+    "id": "evt-0010",
+    "event_type": "REJECTED",
+    "citizen_id_masked": "cit-017****",
+    "acted_by_role": "SYSTEM_ADMIN",
+    "jurisdiction": "Koshi Province",
+    "timestamp": "2026-05-17T20:30:00Z"
+  },
+  {
+    "id": "evt-0029",
+    "event_type": "PASSWORD_RESET",
+    "citizen_id_masked": "cit-025****",
+    "acted_by_role": "SYSTEM_ADMIN",
+    "jurisdiction": "Kummayak Rural Municipality",
+    "timestamp": "2026-05-17T14:30:00Z"
+  },
+  {
+    "id": "evt-0002",
+    "event_type": "ID_CARD_ISSUED",
+    "citizen_id_masked": "cit-030****",
+    "acted_by_role": "LOCAL_BODY_ADMIN",
+    "jurisdiction": "Central",
+    "timestamp": "2026-05-16T21:30:00Z"
+  },
+  {
+    "id": "evt-0011",
+    "event_type": "PASSWORD_RESET",
+    "citizen_id_masked": "cit-002****",
+    "acted_by_role": "SYSTEM_ADMIN",
+    "jurisdiction": "Kummayak Rural Municipality",
+    "timestamp": "2026-05-16T19:30:00Z"
+  },
+  {
+    "id": "evt-0058",
+    "event_type": "CONFLICT_RESOLVED",
+    "citizen_id_masked": "cit-013****",
+    "acted_by_role": "PROVINCE_ADMIN",
+    "jurisdiction": "Kummayak Rural Municipality",
+    "timestamp": "2026-05-16T15:30:00Z"
+  },
+  {
+    "id": "evt-0057",
+    "event_type": "DATA_PURGED",
+    "citizen_id_masked": "cit-011****",
+    "acted_by_role": "CENTRAL_ADMIN",
+    "jurisdiction": "Koshi Province",
+    "timestamp": "2026-05-16T10:30:00Z"
+  }
+]

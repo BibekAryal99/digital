@@ -1,0 +1,212 @@
+[
+  {
+    "id": "conf-02-0",
+    "citizen_id": "cit-026",
+    "citizen_name": "Gopal Bhattarai",
+    "ward_id": "ward-006",
+    "device_id": "DEV-982",
+    "resolution_status": "PENDING_REVIEW",
+    "created_at": "2026-06-10T17:30:00Z",
+    "fields": [
+      {
+        "field": "tole",
+        "server_value": "Bhagwati Tole",
+        "device_value": "Bazar Line"
+      },
+      {
+        "field": "has_smartphone",
+        "server_value": "false",
+        "device_value": "true"
+      }
+    ]
+  },
+  {
+    "id": "conf-02-1",
+    "citizen_id": "cit-026",
+    "citizen_name": "Gopal Bhattarai",
+    "ward_id": "ward-006",
+    "device_id": "DEV-379",
+    "resolution_status": "PENDING_REVIEW",
+    "created_at": "2026-06-10T17:30:00Z",
+    "fields": [
+      {
+        "field": "tole",
+        "server_value": "Bhagwati Tole",
+        "device_value": "Bazar Line"
+      },
+      {
+        "field": "has_smartphone",
+        "server_value": "false",
+        "device_value": "true"
+      }
+    ]
+  },
+  {
+    "id": "conf-03-0",
+    "citizen_id": "cit-027",
+    "citizen_name": "Gopal Bhattarai",
+    "ward_id": "ward-007",
+    "device_id": "DEV-844",
+    "resolution_status": "OVERWRITTEN",
+    "created_at": "2026-06-11T05:30:00Z",
+    "fields": [
+      {
+        "field": "tole",
+        "server_value": "Bhagwati Tole",
+        "device_value": "Bazar Line"
+      },
+      {
+        "field": "has_smartphone",
+        "server_value": "false",
+        "device_value": "true"
+      }
+    ]
+  },
+  {
+    "id": "conf-03-1",
+    "citizen_id": "cit-027",
+    "citizen_name": "Gopal Bhattarai",
+    "ward_id": "ward-007",
+    "device_id": "DEV-540",
+    "resolution_status": "PENDING_REVIEW",
+    "created_at": "2026-06-11T05:30:00Z",
+    "fields": [
+      {
+        "field": "tole",
+        "server_value": "Bhagwati Tole",
+        "device_value": "Bazar Line"
+      },
+      {
+        "field": "has_smartphone",
+        "server_value": "false",
+        "device_value": "true"
+      }
+    ]
+  },
+  {
+    "id": "conf-04-0",
+    "citizen_id": "cit-001",
+    "citizen_name": "Hari Prasad Limbu",
+    "ward_id": "ward-001",
+    "device_id": "DEV-844",
+    "resolution_status": "MERGED",
+    "created_at": "2026-06-12T23:30:00Z",
+    "fields": [
+      {
+        "field": "tole",
+        "server_value": "Bhagwati Tole",
+        "device_value": "Bazar Line"
+      },
+      {
+        "field": "has_smartphone",
+        "server_value": "false",
+        "device_value": "true"
+      }
+    ]
+  },
+  {
+    "id": "conf-05-0",
+    "citizen_id": "cit-011",
+    "citizen_name": "Gita Rai",
+    "ward_id": "ward-004",
+    "device_id": "DEV-341",
+    "resolution_status": "MERGED",
+    "created_at": "2026-06-13T00:30:00Z",
+    "fields": [
+      {
+        "field": "tole",
+        "server_value": "Bhagwati Tole",
+        "device_value": "Bazar Line"
+      },
+      {
+        "field": "has_smartphone",
+        "server_value": "false",
+        "device_value": "true"
+      }
+    ]
+  },
+  {
+    "id": "conf-06-0",
+    "citizen_id": "cit-013",
+    "citizen_name": "Suresh Magar",
+    "ward_id": "ward-004",
+    "device_id": "DEV-216",
+    "resolution_status": "PENDING_REVIEW",
+    "created_at": "2026-06-11T14:30:00Z",
+    "fields": [
+      {
+        "field": "tole",
+        "server_value": "Bhagwati Tole",
+        "device_value": "Bazar Line"
+      },
+      {
+        "field": "has_smartphone",
+        "server_value": "false",
+        "device_value": "true"
+      }
+    ]
+  },
+  {
+    "id": "conf-06-1",
+    "citizen_id": "cit-021",
+    "citizen_name": "Ram Bahadur Thapa",
+    "ward_id": "ward-004",
+    "device_id": "DEV-290",
+    "resolution_status": "OVERWRITTEN",
+    "created_at": "2026-06-11T14:30:00Z",
+    "fields": [
+      {
+        "field": "tole",
+        "server_value": "Bhagwati Tole",
+        "device_value": "Bazar Line"
+      },
+      {
+        "field": "has_smartphone",
+        "server_value": "false",
+        "device_value": "true"
+      }
+    ]
+  },
+  {
+    "id": "conf-07-0",
+    "citizen_id": "cit-031",
+    "citizen_name": "Radha Tamang",
+    "ward_id": "ward-009",
+    "device_id": "DEV-238",
+    "resolution_status": "PENDING_REVIEW",
+    "created_at": "2026-06-12T21:30:00Z",
+    "fields": [
+      {
+        "field": "tole",
+        "server_value": "Bhagwati Tole",
+        "device_value": "Bazar Line"
+      },
+      {
+        "field": "has_smartphone",
+        "server_value": "false",
+        "device_value": "true"
+      }
+    ]
+  },
+  {
+    "id": "conf-08-0",
+    "citizen_id": "cit-030",
+    "citizen_name": "Hari Prasad Limbu",
+    "ward_id": "ward-008",
+    "device_id": "DEV-620",
+    "resolution_status": "PENDING_REVIEW",
+    "created_at": "2026-06-12T23:30:00Z",
+    "fields": [
+      {
+        "field": "tole",
+        "server_value": "Bhagwati Tole",
+        "device_value": "Bazar Line"
+      },
+      {
+        "field": "has_smartphone",
+        "server_value": "false",
+        "device_value": "true"
+      }
+    ]
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "id": "prov-koshi",
+    "name": "Koshi",
+    "lat": 27.05,
+    "lng": 87.26,
+    "municipalities": 137,
+    "total_citizens": 4961412,
+    "top_employment": "FARMER"
+  },
+  {
+    "id": "prov-madhesh",
+    "name": "Madhesh",
+    "lat": 26.87,
+    "lng": 85.91,
+    "municipalities": 136,
+    "total_citizens": 6126288,
+    "top_employment": "FARMER"
+  },
+  {
+    "id": "prov-bagmati",
+    "name": "Bagmati",
+    "lat": 27.7,
+    "lng": 85.33,
+    "municipalities": 119,
+    "total_citizens": 6116866,
+    "top_employment": "PRIVATE_SECTOR"
+  },
+  {
+    "id": "prov-gandaki",
+    "name": "Gandaki",
+    "lat": 28.25,
+    "lng": 84.43,
+    "municipalities": 85,
+    "total_citizens": 2479745,
+    "top_employment": "FOREIGN_ABROAD"
+  },
+  {
+    "id": "prov-lumbini",
+    "name": "Lumbini",
+    "lat": 27.8,
+    "lng": 83.0,
+    "municipalities": 109,
+    "total_citizens": 5124225,
+    "top_employment": "FARMER"
+  },
+  {
+    "id": "prov-karnali",
+    "name": "Karnali",
+    "lat": 29.0,
+    "lng": 82.17,
+    "municipalities": 79,
+    "total_citizens": 1694889,
+    "top_employment": "FARMER"
+  },
+  {
+    "id": "prov-sudurpashchim",
+    "name": "Sudurpashchim",
+    "lat": 29.29,
+    "lng": 80.57,
+    "municipalities": 88,
+    "total_citizens": 2711270,
+    "top_employment": "FOREIGN_ABROAD"
+  }
+]

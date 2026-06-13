@@ -1,0 +1,254 @@
+[
+  {
+    "id": "grv-001",
+    "tracking_code": "GRV-2026-000001",
+    "citizen_id": "cit-026",
+    "citizen_name": "Gopal Bhattarai",
+    "ward_id": "ward-006",
+    "category": "ID_CARD_ISSUE",
+    "description": "Disability ID card not received even after approval; QR code does not verify.",
+    "status": "RECEIVED",
+    "filed_at": "2026-05-22T05:30:00Z",
+    "sla_due": "2026-06-06T05:30:00Z",
+    "timeline": [
+      {
+        "status": "RECEIVED",
+        "at": "2026-05-22T05:30:00Z",
+        "actor": "Ward Admin",
+        "note": "Grievance registered."
+      }
+    ]
+  },
+  {
+    "id": "grv-002",
+    "tracking_code": "GRV-2026-000002",
+    "citizen_id": "cit-017",
+    "citizen_name": "Sarita Subba",
+    "ward_id": "ward-004",
+    "category": "BENEFIT_DENIAL",
+    "description": "Senior citizen allowance application was rejected despite meeting the age criteria.",
+    "status": "IN_PROGRESS",
+    "filed_at": "2026-06-10T05:30:00Z",
+    "sla_due": "2026-06-25T05:30:00Z",
+    "timeline": [
+      {
+        "status": "RECEIVED",
+        "at": "2026-06-10T05:30:00Z",
+        "actor": "Ward Admin",
+        "note": "Grievance registered."
+      },
+      {
+        "status": "IN_PROGRESS",
+        "at": "2026-06-11T05:30:00Z",
+        "actor": "Bibek Aryal",
+        "note": "Investigation started."
+      }
+    ]
+  },
+  {
+    "id": "grv-003",
+    "tracking_code": "GRV-2026-000003",
+    "citizen_id": "cit-012",
+    "citizen_name": "Krishna Subba",
+    "ward_id": "ward-004",
+    "category": "ID_CARD_ISSUE",
+    "description": "Disability ID card not received even after approval; QR code does not verify.",
+    "status": "REFERRED_JUDICIAL",
+    "filed_at": "2026-06-04T05:30:00Z",
+    "sla_due": "2026-06-19T05:30:00Z",
+    "timeline": [
+      {
+        "status": "RECEIVED",
+        "at": "2026-06-04T05:30:00Z",
+        "actor": "Ward Admin",
+        "note": "Grievance registered."
+      },
+      {
+        "status": "IN_PROGRESS",
+        "at": "2026-06-05T05:30:00Z",
+        "actor": "Bibek Aryal",
+        "note": "Investigation started."
+      },
+      {
+        "status": "REFERRED_JUDICIAL",
+        "at": "2026-06-08T05:30:00Z",
+        "actor": "Bibek Aryal",
+        "note": "Referred to judicial committee."
+      }
+    ]
+  },
+  {
+    "id": "grv-004",
+    "tracking_code": "GRV-2026-000004",
+    "citizen_id": "cit-008",
+    "citizen_name": "Sita Kumari Limbu",
+    "ward_id": "ward-003",
+    "category": "OTHER",
+    "description": "General request for assistance regarding ward office services.",
+    "status": "REFERRED_JUDICIAL",
+    "filed_at": "2026-05-15T05:30:00Z",
+    "sla_due": "2026-05-30T05:30:00Z",
+    "timeline": [
+      {
+        "status": "RECEIVED",
+        "at": "2026-05-15T05:30:00Z",
+        "actor": "Ward Admin",
+        "note": "Grievance registered."
+      },
+      {
+        "status": "IN_PROGRESS",
+        "at": "2026-05-16T05:30:00Z",
+        "actor": "Bibek Aryal",
+        "note": "Investigation started."
+      },
+      {
+        "status": "REFERRED_JUDICIAL",
+        "at": "2026-05-19T05:30:00Z",
+        "actor": "Bibek Aryal",
+        "note": "Referred to judicial committee."
+      }
+    ]
+  },
+  {
+    "id": "grv-005",
+    "tracking_code": "GRV-2026-000005",
+    "citizen_id": "cit-013",
+    "citizen_name": "Suresh Magar",
+    "ward_id": "ward-004",
+    "category": "SYSTEM_ACCESS",
+    "description": "Unable to access the citizen portal to update household information.",
+    "status": "RECEIVED",
+    "filed_at": "2026-06-07T05:30:00Z",
+    "sla_due": "2026-06-22T05:30:00Z",
+    "timeline": [
+      {
+        "status": "RECEIVED",
+        "at": "2026-06-07T05:30:00Z",
+        "actor": "Ward Admin",
+        "note": "Grievance registered."
+      }
+    ]
+  },
+  {
+    "id": "grv-006",
+    "tracking_code": "GRV-2026-000006",
+    "citizen_id": "cit-003",
+    "citizen_name": "Krishna Subba",
+    "ward_id": "ward-001",
+    "category": "DATA_INACCURACY",
+    "description": "Date of birth recorded incorrectly in the citizen record; requires correction as per citizenship certificate.",
+    "status": "RESOLVED_WARD",
+    "filed_at": "2026-05-30T05:30:00Z",
+    "sla_due": "2026-06-14T05:30:00Z",
+    "timeline": [
+      {
+        "status": "RECEIVED",
+        "at": "2026-05-30T05:30:00Z",
+        "actor": "Ward Admin",
+        "note": "Grievance registered."
+      },
+      {
+        "status": "IN_PROGRESS",
+        "at": "2026-05-31T05:30:00Z",
+        "actor": "Bibek Aryal",
+        "note": "Investigation started."
+      },
+      {
+        "status": "RESOLVED_WARD",
+        "at": "2026-06-02T05:30:00Z",
+        "actor": "Bibek Aryal",
+        "note": "Resolved at ward level."
+      }
+    ]
+  },
+  {
+    "id": "grv-007",
+    "tracking_code": "GRV-2026-000007",
+    "citizen_id": "cit-030",
+    "citizen_name": "Hari Prasad Limbu",
+    "ward_id": "ward-008",
+    "category": "BENEFIT_DENIAL",
+    "description": "Senior citizen allowance application was rejected despite meeting the age criteria.",
+    "status": "CLOSED",
+    "filed_at": "2026-05-05T05:30:00Z",
+    "sla_due": "2026-05-20T05:30:00Z",
+    "timeline": [
+      {
+        "status": "RECEIVED",
+        "at": "2026-05-05T05:30:00Z",
+        "actor": "Ward Admin",
+        "note": "Grievance registered."
+      },
+      {
+        "status": "IN_PROGRESS",
+        "at": "2026-05-06T05:30:00Z",
+        "actor": "Bibek Aryal",
+        "note": "Investigation started."
+      },
+      {
+        "status": "RESOLVED_WARD",
+        "at": "2026-05-08T05:30:00Z",
+        "actor": "Bibek Aryal",
+        "note": "Resolved at ward level."
+      }
+    ]
+  },
+  {
+    "id": "grv-008",
+    "tracking_code": "GRV-2026-000008",
+    "citizen_id": "cit-029",
+    "citizen_name": "Gopal Bhattarai",
+    "ward_id": "ward-008",
+    "category": "SYSTEM_ACCESS",
+    "description": "Unable to access the citizen portal to update household information.",
+    "status": "REFERRED_JUDICIAL",
+    "filed_at": "2026-06-05T05:30:00Z",
+    "sla_due": "2026-06-20T05:30:00Z",
+    "timeline": [
+      {
+        "status": "RECEIVED",
+        "at": "2026-06-05T05:30:00Z",
+        "actor": "Ward Admin",
+        "note": "Grievance registered."
+      },
+      {
+        "status": "IN_PROGRESS",
+        "at": "2026-06-06T05:30:00Z",
+        "actor": "Bibek Aryal",
+        "note": "Investigation started."
+      },
+      {
+        "status": "REFERRED_JUDICIAL",
+        "at": "2026-06-09T05:30:00Z",
+        "actor": "Bibek Aryal",
+        "note": "Referred to judicial committee."
+      }
+    ]
+  },
+  {
+    "id": "grv-009",
+    "tracking_code": "GRV-2026-000009",
+    "citizen_id": "cit-001",
+    "citizen_name": "Hari Prasad Limbu",
+    "ward_id": "ward-001",
+    "category": "ID_CARD_ISSUE",
+    "description": "Disability ID card not received even after approval; QR code does not verify.",
+    "status": "IN_PROGRESS",
+    "filed_at": "2026-05-24T05:30:00Z",
+    "sla_due": "2026-06-08T05:30:00Z",
+    "timeline": [
+      {
+        "status": "RECEIVED",
+        "at": "2026-05-24T05:30:00Z",
+        "actor": "Ward Admin",
+        "note": "Grievance registered."
+      },
+      {
+        "status": "IN_PROGRESS",
+        "at": "2026-05-25T05:30:00Z",
+        "actor": "Bibek Aryal",
+        "note": "Investigation started."
+      }
+    ]
+  }
+]

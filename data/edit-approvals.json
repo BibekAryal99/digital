@@ -1,0 +1,217 @@
+[
+  {
+    "id": "edit-001",
+    "citizen_id": "cit-008",
+    "citizen_name": "Sita Kumari Limbu",
+    "ward_id": "ward-003",
+    "submitted_by": "Bibek Aryal",
+    "submitter_id": "usr-001",
+    "submitted_at": "2026-06-11T05:30:00Z",
+    "reason": "Citizen requested update",
+    "status": "PENDING",
+    "changes": [
+      {
+        "field": "blood_group",
+        "old_value": "A+",
+        "new_value": "O+"
+      },
+      {
+        "field": "tole",
+        "old_value": "Bhagwati Tole",
+        "new_value": "Bazar Line"
+      }
+    ],
+    "escalated_at": null,
+    "decision_note": ""
+  },
+  {
+    "id": "edit-002",
+    "citizen_id": "cit-002",
+    "citizen_name": "Tek Bahadur Gurung",
+    "ward_id": "ward-001",
+    "submitted_by": "Bibek Aryal",
+    "submitter_id": "usr-001",
+    "submitted_at": "2026-06-09T05:30:00Z",
+    "reason": "Correction per citizenship certificate",
+    "status": "CAO_REVIEW",
+    "changes": [
+      {
+        "field": "name_en",
+        "old_value": "Ram Bahadur Thapa",
+        "new_value": "Ram B. Thapa"
+      },
+      {
+        "field": "employment_category",
+        "old_value": "UNEMPLOYED",
+        "new_value": "FOREIGN_ABROAD"
+      },
+      {
+        "field": "blood_group",
+        "old_value": "A+",
+        "new_value": "O+"
+      }
+    ],
+    "escalated_at": "2026-06-14T05:30:00Z",
+    "decision_note": ""
+  },
+  {
+    "id": "edit-003",
+    "citizen_id": "cit-032",
+    "citizen_name": "Bishnu Rai",
+    "ward_id": "ward-009",
+    "submitted_by": "Bibek Aryal",
+    "submitter_id": "usr-001",
+    "submitted_at": "2026-06-07T05:30:00Z",
+    "reason": "Updated after field verification",
+    "status": "CAO_REVIEW",
+    "changes": [
+      {
+        "field": "blood_group",
+        "old_value": "A+",
+        "new_value": "O+"
+      }
+    ],
+    "escalated_at": "2026-06-12T05:30:00Z",
+    "decision_note": ""
+  },
+  {
+    "id": "edit-004",
+    "citizen_id": "cit-014",
+    "citizen_name": "Gopal Bhattarai",
+    "ward_id": "ward-004",
+    "submitted_by": "Bibek Aryal",
+    "submitter_id": "usr-001",
+    "submitted_at": "2026-06-11T05:30:00Z",
+    "reason": "Citizen requested update",
+    "status": "PENDING",
+    "changes": [
+      {
+        "field": "employment_category",
+        "old_value": "UNEMPLOYED",
+        "new_value": "FOREIGN_ABROAD"
+      },
+      {
+        "field": "tole",
+        "old_value": "Bhagwati Tole",
+        "new_value": "Bazar Line"
+      },
+      {
+        "field": "blood_group",
+        "old_value": "A+",
+        "new_value": "O+"
+      }
+    ],
+    "escalated_at": null,
+    "decision_note": ""
+  },
+  {
+    "id": "edit-005",
+    "citizen_id": "cit-021",
+    "citizen_name": "Ram Bahadur Thapa",
+    "ward_id": "ward-004",
+    "submitted_by": "Bibek Aryal",
+    "submitter_id": "usr-001",
+    "submitted_at": "2026-06-04T05:30:00Z",
+    "reason": "Correction per citizenship certificate",
+    "status": "CAO_REVIEW",
+    "changes": [
+      {
+        "field": "tole",
+        "old_value": "Bhagwati Tole",
+        "new_value": "Bazar Line"
+      },
+      {
+        "field": "income_band",
+        "old_value": "UNDER_5K",
+        "new_value": "10K_25K"
+      },
+      {
+        "field": "name_en",
+        "old_value": "Ram Bahadur Thapa",
+        "new_value": "Ram B. Thapa"
+      }
+    ],
+    "escalated_at": "2026-06-09T05:30:00Z",
+    "decision_note": ""
+  },
+  {
+    "id": "edit-006",
+    "citizen_id": "cit-026",
+    "citizen_name": "Gopal Bhattarai",
+    "ward_id": "ward-006",
+    "submitted_by": "Bibek Aryal",
+    "submitter_id": "usr-001",
+    "submitted_at": "2026-06-07T05:30:00Z",
+    "reason": "Correction per citizenship certificate",
+    "status": "REJECTED",
+    "changes": [
+      {
+        "field": "tole",
+        "old_value": "Bhagwati Tole",
+        "new_value": "Bazar Line"
+      },
+      {
+        "field": "employment_category",
+        "old_value": "UNEMPLOYED",
+        "new_value": "FOREIGN_ABROAD"
+      }
+    ],
+    "escalated_at": null,
+    "decision_note": "Insufficient documentation."
+  },
+  {
+    "id": "edit-007",
+    "citizen_id": "cit-020",
+    "citizen_name": "Naresh Khadka",
+    "ward_id": "ward-004",
+    "submitted_by": "Bibek Aryal",
+    "submitter_id": "usr-001",
+    "submitted_at": "2026-06-09T05:30:00Z",
+    "reason": "Correction per citizenship certificate",
+    "status": "APPROVED",
+    "changes": [
+      {
+        "field": "tole",
+        "old_value": "Bhagwati Tole",
+        "new_value": "Bazar Line"
+      },
+      {
+        "field": "employment_category",
+        "old_value": "UNEMPLOYED",
+        "new_value": "FOREIGN_ABROAD"
+      },
+      {
+        "field": "blood_group",
+        "old_value": "A+",
+        "new_value": "O+"
+      }
+    ],
+    "escalated_at": null,
+    "decision_note": "Approved after verification."
+  },
+  {
+    "id": "edit-008",
+    "citizen_id": "cit-015",
+    "citizen_name": "Sabita Bhattarai",
+    "ward_id": "ward-004",
+    "submitted_by": "Bibek Aryal",
+    "submitter_id": "usr-001",
+    "submitted_at": "2026-06-04T05:30:00Z",
+    "reason": "Citizen requested update",
+    "status": "APPROVED",
+    "changes": [
+      {
+        "field": "name_en",
+        "old_value": "Ram Bahadur Thapa",
+        "new_value": "Ram B. Thapa"
+      },
+      {
+        "field": "income_band",
+        "old_value": "UNDER_5K",
+        "new_value": "10K_25K"
+      }
+    ],
+    "escalated_at": null,
+    "decision_note": "Approved after verification."
+  }
+]

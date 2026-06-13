@@ -1,0 +1,92 @@
+[
+  {
+    "id": "ward-001",
+    "ward_no": 1,
+    "name_en": "Memeng",
+    "name_np": "मेमेङ",
+    "municipality_id": "mun-001",
+    "municipality_name": "Kummayak Rural Municipality",
+    "province_id": "prov-koshi",
+    "province_name": "Koshi Province"
+  },
+  {
+    "id": "ward-002",
+    "ward_no": 2,
+    "name_en": "Kummayak",
+    "name_np": "कुम्मायक",
+    "municipality_id": "mun-001",
+    "municipality_name": "Kummayak Rural Municipality",
+    "province_id": "prov-koshi",
+    "province_name": "Koshi Province"
+  },
+  {
+    "id": "ward-003",
+    "ward_no": 3,
+    "name_en": "Nawamidanda",
+    "name_np": "नवमीडाँडा",
+    "municipality_id": "mun-001",
+    "municipality_name": "Kummayak Rural Municipality",
+    "province_id": "prov-koshi",
+    "province_name": "Koshi Province"
+  },
+  {
+    "id": "ward-004",
+    "ward_no": 4,
+    "name_en": "Bhagawati",
+    "name_np": "भगवती",
+    "municipality_id": "mun-001",
+    "municipality_name": "Kummayak Rural Municipality",
+    "province_id": "prov-koshi",
+    "province_name": "Koshi Province"
+  },
+  {
+    "id": "ward-005",
+    "ward_no": 5,
+    "name_en": "Phidim Bazar",
+    "name_np": "फिदिम बजार",
+    "municipality_id": "mun-001",
+    "municipality_name": "Kummayak Rural Municipality",
+    "province_id": "prov-koshi",
+    "province_name": "Koshi Province"
+  },
+  {
+    "id": "ward-006",
+    "ward_no": 6,
+    "name_en": "Yangnam",
+    "name_np": "याङनाम",
+    "municipality_id": "mun-001",
+    "municipality_name": "Kummayak Rural Municipality",
+    "province_id": "prov-koshi",
+    "province_name": "Koshi Province"
+  },
+  {
+    "id": "ward-007",
+    "ward_no": 7,
+    "name_en": "Sidin",
+    "name_np": "सिदिन",
+    "municipality_id": "mun-001",
+    "municipality_name": "Kummayak Rural Municipality",
+    "province_id": "prov-koshi",
+    "province_name": "Koshi Province"
+  },
+  {
+    "id": "ward-008",
+    "ward_no": 8,
+    "name_en": "Chyangthapu",
+    "name_np": "च्याङथापु",
+    "municipality_id": "mun-001",
+    "municipality_name": "Kummayak Rural Municipality",
+    "province_id": "prov-koshi",
+    "province_name": "Koshi Province"
+  },
+  {
+    "id": "ward-009",
+    "ward_no": 9,
+    "name_en": "Oyam",
+    "name_np": "ओयाम",
+    "municipality_id": "mun-001",
+    "municipality_name": "Kummayak Rural Municipality",
+    "province_id": "prov-koshi",
+    "province_name": "Koshi Province"
+  }
+]

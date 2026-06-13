@@ -1,0 +1,2444 @@
+[
+  {
+    "id": "cit-001",
+    "ward_id": "ward-001",
+    "name_np": "हरि प्रसाद लिम्बु",
+    "name_en": "Hari Prasad Limbu",
+    "nid_masked": "****6925",
+    "nid_verified": false,
+    "sex": "MALE",
+    "dob": "1982-02-28",
+    "blood_group": "B+",
+    "religion": "Hindu",
+    "ethnicity": "Limbu",
+    "mother_tongue": "Nepali",
+    "tole": "Deurali",
+    "digital_literacy": "NONE",
+    "has_smartphone": true,
+    "sync_status": "conflict",
+    "is_active": true,
+    "employment_category": "RETIRED",
+    "income_band": "UNDER_5K",
+    "consent_channel": "FIELD",
+    "consent_recorded_at": "2026-03-29T05:30:00Z",
+    "created_at": "2026-02-12T05:30:00Z",
+    "family": [
+      {
+        "relation": "FATHER",
+        "name": "Bir Bahadur Sherpa",
+        "citizenship_no": "12-01-74-04598",
+        "link_status": "pending"
+      },
+      {
+        "relation": "MOTHER",
+        "name": "Sita Kumari Limbu",
+        "citizenship_no": "12-01-71-01525",
+        "link_status": "pending"
+      }
+    ],
+    "employment": {
+      "citizen_id": "cit-001",
+      "category": "RETIRED",
+      "income_band": "OVER_100K",
+      "details": {
+        "occupation_note": "Retired"
+      }
+    },
+    "education": {
+      "level": "PHD",
+      "institution_name": "Phidim Multiple Campus",
+      "institution_type": "PUBLIC",
+      "study_location": "NEPAL",
+      "is_dropout": false,
+      "dropout_reason": "Migration",
+      "scholarship": null
+    },
+    "household": {
+      "id": "hh-001",
+      "house_type": "Own",
+      "construction_type": "Wooden",
+      "room_count": 7,
+      "electricity_source": "Micro-hydro",
+      "water_source": "Piped",
+      "sanitation": "Flush toilet",
+      "internet_access": true,
+      "bank_account": true,
+      "monthly_income_band": "25K_50K",
+      "poverty_class": "NEAR"
+    },
+    "gps": {
+      "lat": 27.10798,
+      "lng": 87.97016
+    },
+    "disability": null
+  },
+  {
+    "id": "cit-002",
+    "ward_id": "ward-001",
+    "name_np": "टेक बहादुर गुरुङ",
+    "name_en": "Tek Bahadur Gurung",
+    "nid_masked": "****6155",
+    "nid_verified": true,
+    "sex": "MALE",
+    "dob": "1989-07-14",
+    "blood_group": "O-",
+    "religion": "Christian",
+    "ethnicity": "Brahmin",
+    "mother_tongue": "Rai",
+    "tole": "Upallo Gaun",
+    "digital_literacy": "INTERMEDIATE",
+    "has_smartphone": true,
+    "sync_status": "conflict",
+    "is_active": true,
+    "employment_category": "UNEMPLOYED",
+    "income_band": "5K_10K",
+    "consent_channel": "VERBAL_WITNESS",
+    "consent_recorded_at": "2026-01-16T05:30:00Z",
+    "created_at": "2026-01-22T05:30:00Z",
+    "family": [
+      {
+        "relation": "FATHER",
+        "name": "Naresh Khadka",
+        "citizenship_no": "12-01-70-02876",
+        "link_status": "pending"
+      },
+      {
+        "relation": "MOTHER",
+        "name": "Devi Sherpa",
+        "citizenship_no": "12-01-72-02827",
+        "link_status": "pending"
+      }
+    ],
+    "employment": {
+      "citizen_id": "cit-002",
+      "category": "UNEMPLOYED",
+      "income_band": "10K_25K",
+      "details": {
+        "duration_months": 30,
+        "skills": "Carpentry, Driving",
+        "employment_office_registered": false
+      }
+    },
+    "education": {
+      "level": "SECONDARY",
+      "institution_name": "Bhagawati Secondary School",
+      "institution_type": "PUBLIC",
+      "study_location": "NEPAL",
+      "is_dropout": true,
+      "dropout_reason": "Migration",
+      "scholarship": null
+    },
+    "household": {
+      "id": "hh-002",
+      "house_type": "Own",
+      "construction_type": "RCC",
+      "room_count": 2,
+      "electricity_source": "National Grid",
+      "water_source": "Well",
+      "sanitation": "Pit latrine",
+      "internet_access": true,
+      "bank_account": true,
+      "monthly_income_band": "25K_50K",
+      "poverty_class": "ABOVE"
+    },
+    "gps": {
+      "lat": 27.39845,
+      "lng": 87.81165
+    },
+    "disability": null
+  },
+  {
+    "id": "cit-003",
+    "ward_id": "ward-001",
+    "name_np": "कृष्ण सुब्बा",
+    "name_en": "Krishna Subba",
+    "nid_masked": "****9201",
+    "nid_verified": true,
+    "sex": "MALE",
+    "dob": "2008-03-03",
+    "blood_group": "A-",
+    "religion": "Hindu",
+    "ethnicity": "Magar",
+    "mother_tongue": "Nepali",
+    "tole": "Upallo Gaun",
+    "digital_literacy": "INTERMEDIATE",
+    "has_smartphone": true,
+    "sync_status": "synced",
+    "is_active": true,
+    "employment_category": "DAILY_WAGE",
+    "income_band": "50K_100K",
+    "consent_channel": "VERBAL_WITNESS",
+    "consent_recorded_at": "2026-06-08T05:30:00Z",
+    "created_at": "2026-01-06T05:30:00Z",
+    "family": [
+      {
+        "relation": "FATHER",
+        "name": "Naresh Khadka",
+        "citizenship_no": "12-01-71-05342",
+        "link_status": "pending"
+      },
+      {
+        "relation": "MOTHER",
+        "name": "Sarita Subba",
+        "citizenship_no": "12-01-74-04295",
+        "link_status": "pending"
+      }
+    ],
+    "employment": {
+      "citizen_id": "cit-003",
+      "category": "DAILY_WAGE",
+      "income_band": "10K_25K",
+      "details": {
+        "occupation_note": "Daily_Wage"
+      }
+    },
+    "education": {
+      "level": "HIGHER_SECONDARY",
+      "institution_name": "Bhagawati Secondary School",
+      "institution_type": "PUBLIC",
+      "study_location": "NEPAL",
+      "is_dropout": false,
+      "dropout_reason": "Migration",
+      "scholarship": null
+    },
+    "household": {
+      "id": "hh-003",
+      "house_type": "Own",
+      "construction_type": "RCC",
+      "room_count": 3,
+      "electricity_source": "Micro-hydro",
+      "water_source": "Piped",
+      "sanitation": "Flush toilet",
+      "internet_access": false,
+      "bank_account": true,
+      "monthly_income_band": "50K_100K",
+      "poverty_class": "BELOW"
+    },
+    "gps": {
+      "lat": 27.05136,
+      "lng": 87.79011
+    },
+    "disability": null
+  },
+  {
+    "id": "cit-004",
+    "ward_id": "ward-002",
+    "name_np": "मोहन अधिकारी",
+    "name_en": "Mohan Adhikari",
+    "nid_masked": "****8397",
+    "nid_verified": true,
+    "sex": "MALE",
+    "dob": "1969-02-27",
+    "blood_group": "B+",
+    "religion": "Buddhist",
+    "ethnicity": "Rai",
+    "mother_tongue": "Tamang",
+    "tole": "Bhagwati Tole",
+    "digital_literacy": "BASIC",
+    "has_smartphone": false,
+    "sync_status": "conflict",
+    "is_active": true,
+    "employment_category": "PRIVATE_SECTOR",
+    "income_band": "5K_10K",
+    "consent_channel": "WARD_OFFICE",
+    "consent_recorded_at": "2026-05-21T05:30:00Z",
+    "created_at": "2025-12-09T05:30:00Z",
+    "family": [
+      {
+        "relation": "FATHER",
+        "name": "Suresh Magar",
+        "citizenship_no": "12-01-71-02545",
+        "link_status": "linked"
+      },
+      {
+        "relation": "MOTHER",
+        "name": "Devi Sherpa",
+        "citizenship_no": "12-01-73-06804",
+        "link_status": "pending"
+      }
+    ],
+    "employment": {
+      "citizen_id": "cit-004",
+      "category": "PRIVATE_SECTOR",
+      "income_band": "OVER_100K",
+      "details": {
+        "occupation_note": "Private_Sector"
+      }
+    },
+    "education": {
+      "level": "NO_FORMAL",
+      "institution_name": "Bhagawati Secondary School",
+      "institution_type": "PUBLIC",
+      "study_location": "NEPAL",
+      "is_dropout": false,
+      "dropout_reason": "Migration",
+      "scholarship": null
+    },
+    "household": {
+      "id": "hh-004",
+      "house_type": "Own",
+      "construction_type": "Stone-Mud",
+      "room_count": 4,
+      "electricity_source": "Micro-hydro",
+      "water_source": "Tanker",
+      "sanitation": "Flush toilet",
+      "internet_access": true,
+      "bank_account": false,
+      "monthly_income_band": "50K_100K",
+      "poverty_class": "ABOVE"
+    },
+    "gps": {
+      "lat": 27.18907,
+      "lng": 87.91385
+    },
+    "disability": null
+  },
+  {
+    "id": "cit-005",
+    "ward_id": "ward-002",
+    "name_np": "गोपाल भट्टराई",
+    "name_en": "Gopal Bhattarai",
+    "nid_masked": "****1993",
+    "nid_verified": true,
+    "sex": "MALE",
+    "dob": "1948-01-20",
+    "blood_group": "O-",
+    "religion": "Kirat",
+    "ethnicity": "Rai",
+    "mother_tongue": "Nepali",
+    "tole": "Tallo Gaun",
+    "digital_literacy": "BASIC",
+    "has_smartphone": false,
+    "sync_status": "synced",
+    "is_active": true,
+    "employment_category": "FARMER",
+    "income_band": "25K_50K",
+    "consent_channel": "WARD_OFFICE",
+    "consent_recorded_at": "2026-02-20T05:30:00Z",
+    "created_at": "2026-04-23T05:30:00Z",
+    "family": [
+      {
+        "relation": "FATHER",
+        "name": "Gopal Bhattarai",
+        "citizenship_no": "12-01-72-07930",
+        "link_status": "pending"
+      },
+      {
+        "relation": "MOTHER",
+        "name": "Maya Gurung",
+        "citizenship_no": "12-01-71-05861",
+        "link_status": "linked"
+      }
+    ],
+    "employment": {
+      "citizen_id": "cit-005",
+      "category": "FARMER",
+      "income_band": "10K_25K",
+      "details": {
+        "land_area_ropani": 10.3,
+        "land_type": "Khet",
+        "primary_crop": "Ginger",
+        "irrigation_type": "Tube-well",
+        "agri_loan": true
+      }
+    },
+    "education": {
+      "level": "NO_FORMAL",
+      "institution_name": "Janata Primary School",
+      "institution_type": "COMMUNITY",
+      "study_location": "NEPAL",
+      "is_dropout": false,
+      "dropout_reason": "Financial hardship",
+      "scholarship": null
+    },
+    "household": {
+      "id": "hh-005",
+      "house_type": "Own",
+      "construction_type": "Stone-Mud",
+      "room_count": 5,
+      "electricity_source": "Solar",
+      "water_source": "Tanker",
+      "sanitation": "Flush toilet",
+      "internet_access": false,
+      "bank_account": true,
+      "monthly_income_band": "5K_10K",
+      "poverty_class": "NEAR"
+    },
+    "gps": {
+      "lat": 27.00086,
+      "lng": 87.75617
+    },
+    "disability": {
+      "citizen_id": "cit-005",
+      "disability_type": "PHYSICAL",
+      "severity_body": 4,
+      "severity_activity": 4,
+      "severity_participation": 4,
+      "certificate_no": "DIS-60394",
+      "issuing_hospital": "Panchthar District Hospital",
+      "expiry_date": "2028-04-16"
+    }
+  },
+  {
+    "id": "cit-006",
+    "ward_id": "ward-002",
+    "name_np": "पदम लिम्बु",
+    "name_en": "Padam Limbu",
+    "nid_masked": "****1936",
+    "nid_verified": true,
+    "sex": "MALE",
+    "dob": "2002-12-29",
+    "blood_group": "A-",
+    "religion": "Christian",
+    "ethnicity": "Tamang",
+    "mother_tongue": "Limbu",
+    "tole": "Bazar Line",
+    "digital_literacy": "BASIC",
+    "has_smartphone": true,
+    "sync_status": "synced",
+    "is_active": true,
+    "employment_category": "FOREIGN_ABROAD",
+    "income_band": "50K_100K",
+    "consent_channel": "WARD_OFFICE",
+    "consent_recorded_at": "2025-12-18T05:30:00Z",
+    "created_at": "2026-04-09T05:30:00Z",
+    "family": [
+      {
+        "relation": "FATHER",
+        "name": "Mohan Adhikari",
+        "citizenship_no": "12-01-75-05915",
+        "link_status": "pending"
+      },
+      {
+        "relation": "MOTHER",
+        "name": "Radha Tamang",
+        "citizenship_no": "12-01-70-01152",
+        "link_status": "pending"
+      }
+    ],
+    "employment": {
+      "citizen_id": "cit-006",
+      "category": "FOREIGN_ABROAD",
+      "income_band": "25K_50K",
+      "details": {
+        "country": "Qatar",
+        "visa_type": "EPS",
+        "employer_name": "Gulf Constructions Ltd",
+        "departure_date": "2024-01-01",
+        "expected_return": "2027-09-13",
+        "remittance_band": "10K_25K",
+        "doe_registered": true
+      }
+    },
+    "education": {
+      "level": "NO_FORMAL",
+      "institution_name": "Janata Primary School",
+      "institution_type": "PUBLIC",
+      "study_location": "NEPAL",
+      "is_dropout": true,
+      "dropout_reason": "Family responsibility",
+      "scholarship": null
+    },
+    "household": {
+      "id": "hh-006",
+      "house_type": "Own",
+      "construction_type": "RCC",
+      "room_count": 5,
+      "electricity_source": "Micro-hydro",
+      "water_source": "Spring",
+      "sanitation": "Pit latrine",
+      "internet_access": true,
+      "bank_account": false,
+      "monthly_income_band": "OVER_100K",
+      "poverty_class": "NEAR"
+    },
+    "gps": {
+      "lat": 27.09547,
+      "lng": 87.75831
+    },
+    "disability": null
+  },
+  {
+    "id": "cit-007",
+    "ward_id": "ward-003",
+    "name_np": "हरि प्रसाद लिम्बु",
+    "name_en": "Hari Prasad Limbu",
+    "nid_masked": "****5345",
+    "nid_verified": true,
+    "sex": "MALE",
+    "dob": "1989-05-04",
+    "blood_group": "O+",
+    "religion": "Hindu",
+    "ethnicity": "Gurung",
+    "mother_tongue": "Tamang",
+    "tole": "Deurali",
+    "digital_literacy": "BASIC",
+    "has_smartphone": true,
+    "sync_status": "conflict",
+    "is_active": true,
+    "employment_category": "RETIRED",
+    "income_band": "50K_100K",
+    "consent_channel": "VERBAL_WITNESS",
+    "consent_recorded_at": "2026-03-23T05:30:00Z",
+    "created_at": "2026-01-03T05:30:00Z",
+    "family": [
+      {
+        "relation": "FATHER",
+        "name": "Mohan Adhikari",
+        "citizenship_no": "12-01-75-05325",
+        "link_status": "pending"
+      },
+      {
+        "relation": "MOTHER",
+        "name": "Kamala Thapa",
+        "citizenship_no": "12-01-70-02512",
+        "link_status": "pending"
+      }
+    ],
+    "employment": {
+      "citizen_id": "cit-007",
+      "category": "RETIRED",
+      "income_band": "OVER_100K",
+      "details": {
+        "occupation_note": "Retired"
+      }
+    },
+    "education": {
+      "level": "BACHELOR",
+      "institution_name": "Bhagawati Secondary School",
+      "institution_type": "COMMUNITY",
+      "study_location": "NEPAL",
+      "is_dropout": true,
+      "dropout_reason": "Migration",
+      "scholarship": null
+    },
+    "household": {
+      "id": "hh-007",
+      "house_type": "Joint Family",
+      "construction_type": "RCC",
+      "room_count": 3,
+      "electricity_source": "Solar",
+      "water_source": "Piped",
+      "sanitation": "Flush toilet",
+      "internet_access": true,
+      "bank_account": true,
+      "monthly_income_band": "10K_25K",
+      "poverty_class": "ABOVE"
+    },
+    "gps": {
+      "lat": 27.08425,
+      "lng": 87.73715
+    },
+    "disability": null
+  },
+  {
+    "id": "cit-008",
+    "ward_id": "ward-003",
+    "name_np": "सीता कुमारी लिम्बु",
+    "name_en": "Sita Kumari Limbu",
+    "nid_masked": "****5291",
+    "nid_verified": true,
+    "sex": "FEMALE",
+    "dob": "1978-07-16",
+    "blood_group": "O-",
+    "religion": "Christian",
+    "ethnicity": "Brahmin",
+    "mother_tongue": "Limbu",
+    "tole": "Bazar Line",
+    "digital_literacy": "NONE",
+    "has_smartphone": false,
+    "sync_status": "synced",
+    "is_active": true,
+    "employment_category": "FARMER",
+    "income_band": "5K_10K",
+    "consent_channel": "VERBAL_WITNESS",
+    "consent_recorded_at": "2026-05-30T05:30:00Z",
+    "created_at": "2026-03-06T05:30:00Z",
+    "family": [
+      {
+        "relation": "FATHER",
+        "name": "Dilip Tamang",
+        "citizenship_no": "12-01-73-05065",
+        "link_status": "pending"
+      },
+      {
+        "relation": "MOTHER",
+        "name": "Maya Gurung",
+        "citizenship_no": "12-01-75-02771",
+        "link_status": "pending"
+      }
+    ],
+    "employment": {
+      "citizen_id": "cit-008",
+      "category": "FARMER",
+      "income_band": "50K_100K",
+      "details": {
+        "land_area_ropani": 11.9,
+        "land_type": "Bari",
+        "primary_crop": "Maize",
+        "irrigation_type": "Rain-fed",
+        "agri_loan": false
+      }
+    },
+    "education": {
+      "level": "SECONDARY",
+      "institution_name": "Bhagawati Secondary School",
+      "institution_type": "PRIVATE",
+      "study_location": "NEPAL",
+      "is_dropout": false,
+      "dropout_reason": "Family responsibility",
+      "scholarship": null
+    },
+    "household": {
+      "id": "hh-008",
+      "house_type": "Own",
+      "construction_type": "RCC",
+      "room_count": 4,
+      "electricity_source": "Micro-hydro",
+      "water_source": "Tanker",
+      "sanitation": "Flush toilet",
+      "internet_access": true,
+      "bank_account": true,
+      "monthly_income_band": "5K_10K",
+      "poverty_class": "NEAR"
+    },
+    "gps": {
+      "lat": 27.00991,
+      "lng": 87.89463
+    },
+    "disability": null
+  },
+  {
+    "id": "cit-009",
+    "ward_id": "ward-003",
+    "name_np": "गोपाल भट्टराई",
+    "name_en": "Gopal Bhattarai",
+    "nid_masked": "****6728",
+    "nid_verified": true,
+    "sex": "MALE",
+    "dob": "1990-07-23",
+    "blood_group": "B+",
+    "religion": "Buddhist",
+    "ethnicity": "Limbu",
+    "mother_tongue": "Nepali",
+    "tole": "Mangalbare",
+    "digital_literacy": "INTERMEDIATE",
+    "has_smartphone": true,
+    "sync_status": "pending",
+    "is_active": true,
+    "employment_category": "GOVERNMENT",
+    "income_band": "UNDER_5K",
+    "consent_channel": "FIELD",
+    "consent_recorded_at": "2026-03-11T05:30:00Z",
+    "created_at": "2025-12-26T05:30:00Z",
+    "family": [
+      {
+        "relation": "FATHER",
+        "name": "Tek Bahadur Gurung",
+        "citizenship_no": "12-01-70-08144",
+        "link_status": "linked"
+      },
+      {
+        "relation": "MOTHER",
+        "name": "Sabita Bhattarai",
+        "citizenship_no": "12-01-74-04228",
+        "link_status": "pending"
+      }
+    ],
+    "employment": {
+      "citizen_id": "cit-009",
+      "category": "GOVERNMENT",
+      "income_band": "50K_100K",
+      "details": {
+        "ministry": "Health",
+        "grade": "Non-Gazetted",
+        "posting_district": "Panchthar",
+        "service_entry_year": 2005
+      }
+    },
+    "education": {
+      "level": "NO_FORMAL",
+      "institution_name": "Phidim Multiple Campus",
+      "institution_type": "PUBLIC",
+      "study_location": "NEPAL",
+      "is_dropout": true,
+      "dropout_reason": "Migration",
+      "scholarship": null
+    },
+    "household": {
+      "id": "hh-009",
+      "house_type": "Own",
+      "construction_type": "RCC",
+      "room_count": 6,
+      "electricity_source": "Solar",
+      "water_source": "Spring",
+      "sanitation": "Pit latrine",
+      "internet_access": false,
+      "bank_account": false,
+      "monthly_income_band": "50K_100K",
+      "poverty_class": "BELOW"
+    },
+    "gps": {
+      "lat": 27.15408,
+      "lng": 87.83064
+    },
+    "disability": null
+  },
+  {
+    "id": "cit-010",
+    "ward_id": "ward-004",
+    "name_np": "हरि प्रसाद लिम्बु",
+    "name_en": "Hari Prasad Limbu",
+    "nid_masked": "****3041",
+    "nid_verified": false,
+    "sex": "MALE",
+    "dob": "1952-07-22",
+    "blood_group": "O+",
+    "religion": "Kirat",
+    "ethnicity": "Brahmin",
+    "mother_tongue": "Tamang",
+    "tole": "Mangalbare",
+    "digital_literacy": "INTERMEDIATE",
+    "has_smartphone": false,
+    "sync_status": "synced",
+    "is_active": true,
+    "employment_category": "PRIVATE_SECTOR",
+    "income_band": "5K_10K",
+    "consent_channel": "WARD_OFFICE",
+    "consent_recorded_at": "2026-02-21T05:30:00Z",
+    "created_at": "2025-12-20T05:30:00Z",
+    "family": [
+      {
+        "relation": "FATHER",
+        "name": "Gopal Bhattarai",
+        "citizenship_no": "12-01-75-04501",
+        "link_status": "pending"
+      },
+      {
+        "relation": "MOTHER",
+        "name": "Januka Limbu",
+        "citizenship_no": "12-01-71-02389",
+        "link_status": "pending"
+      }
+    ],
+    "employment": {
+      "citizen_id": "cit-010",
+      "category": "PRIVATE_SECTOR",
+      "income_band": "25K_50K",
+      "details": {
+        "occupation_note": "Private_Sector"
+      }
+    },
+    "education": {
+      "level": "MASTER",
+      "institution_name": "Janata Primary School",
+      "institution_type": "PUBLIC",
+      "study_location": "NEPAL",
+      "is_dropout": true,
+      "dropout_reason": "Family responsibility",
+      "scholarship": null
+    },
+    "household": {
+      "id": "hh-010",
+      "house_type": "Rented",
+      "construction_type": "Cement-Brick",
+      "room_count": 6,
+      "electricity_source": "National Grid",
+      "water_source": "Spring",
+      "sanitation": "Pit latrine",
+      "internet_access": true,
+      "bank_account": true,
+      "monthly_income_band": "50K_100K",
+      "poverty_class": "ABOVE"
+    },
+    "gps": {
+      "lat": 27.26188,
+      "lng": 87.786
+    },
+    "disability": {
+      "citizen_id": "cit-010",
+      "disability_type": "PHYSICAL",
+      "severity_body": 0,
+      "severity_activity": 2,
+      "severity_participation": 2,
+      "certificate_no": "DIS-20057",
+      "issuing_hospital": "Panchthar District Hospital",
+      "expiry_date": "2028-10-20"
+    }
+  },
+  {
+    "id": "cit-011",
+    "ward_id": "ward-004",
+    "name_np": "गीता राई",
+    "name_en": "Gita Rai",
+    "nid_masked": "****4680",
+    "nid_verified": true,
+    "sex": "FEMALE",
+    "dob": "1948-02-07",
+    "blood_group": "B+",
+    "religion": "Hindu",
+    "ethnicity": "Limbu",
+    "mother_tongue": "Nepali",
+    "tole": "Dovan",
+    "digital_literacy": "NONE",
+    "has_smartphone": true,
+    "sync_status": "synced",
+    "is_active": true,
+    "employment_category": "GOVERNMENT",
+    "income_band": "25K_50K",
+    "consent_channel": "VERBAL_WITNESS",
+    "consent_recorded_at": "2026-01-12T05:30:00Z",
+    "created_at": "2026-04-20T05:30:00Z",
+    "family": [
+      {
+        "relation": "FATHER",
+        "name": "Mohan Adhikari",
+        "citizenship_no": "12-01-74-06198",
+        "link_status": "pending"
+      },
+      {
+        "relation": "MOTHER",
+        "name": "Nirmala Rai",
+        "citizenship_no": "12-01-75-09270",
+        "link_status": "pending"
+      }
+    ],
+    "employment": {
+      "citizen_id": "cit-011",
+      "category": "GOVERNMENT",
+      "income_band": "OVER_100K",
+      "details": {
+        "ministry": "Home Affairs",
+        "grade": "Non-Gazetted",
+        "posting_district": "Panchthar",
+        "service_entry_year": 2020
+      }
+    },
+    "education": {
+      "level": "HIGHER_SECONDARY",
+      "institution_name": "Bhagawati Secondary School",
+      "institution_type": "PUBLIC",
+      "study_location": "NEPAL",
+      "is_dropout": true,
+      "dropout_reason": "Family responsibility",
+      "scholarship": null
+    },
+    "household": {
+      "id": "hh-011",
+      "house_type": "Own",
+      "construction_type": "RCC",
+      "room_count": 5,
+      "electricity_source": "National Grid",
+      "water_source": "Well",
+      "sanitation": "Pit latrine",
+      "internet_access": true,
+      "bank_account": false,
+      "monthly_income_band": "5K_10K",
+      "poverty_class": "BELOW"
+    },
+    "gps": {
+      "lat": 27.18258,
+      "lng": 87.92057
+    },
+    "disability": null
+  },
+  {
+    "id": "cit-012",
+    "ward_id": "ward-004",
+    "name_np": "कृष्ण सुब्बा",
+    "name_en": "Krishna Subba",
+    "nid_masked": "****5050",
+    "nid_verified": false,
+    "sex": "MALE",
+    "dob": "1968-02-01",
+    "blood_group": "O+",
+    "religion": "Christian",
+    "ethnicity": "Gurung",
+    "mother_tongue": "Tamang",
+    "tole": "Dovan",
+    "digital_literacy": "NONE",
+    "has_smartphone": false,
+    "sync_status": "synced",
+    "is_active": true,
+    "employment_category": "DAILY_WAGE",
+    "income_band": "10K_25K",
+    "consent_channel": "WARD_OFFICE",
+    "consent_recorded_at": "2026-03-31T05:30:00Z",
+    "created_at": "2026-03-15T05:30:00Z",
+    "family": [
+      {
+        "relation": "FATHER",
+        "name": "Suresh Magar",
+        "citizenship_no": "12-01-73-01320",
+        "link_status": "pending"
+      },
+      {
+        "relation": "MOTHER",
+        "name": "Laxmi Khadka",
+        "citizenship_no": "12-01-70-06763",
+        "link_status": "pending"
+      }
+    ],
+    "employment": {
+      "citizen_id": "cit-012",
+      "category": "DAILY_WAGE",
+      "income_band": "10K_25K",
+      "details": {
+        "occupation_note": "Daily_Wage"
+      }
+    },
+    "education": {
+      "level": "BACHELOR",
+      "institution_name": "Bhagawati Secondary School",
+      "institution_type": "PUBLIC",
+      "study_location": "NEPAL",
+      "is_dropout": false,
+      "dropout_reason": "Financial hardship",
+      "scholarship": null
+    },
+    "household": {
+      "id": "hh-012",
+      "house_type": "Rented",
+      "construction_type": "Stone-Mud",
+      "room_count": 7,
+      "electricity_source": "National Grid",
+      "water_source": "Piped",
+      "sanitation": "Pit latrine",
+      "internet_access": false,
+      "bank_account": true,
+      "monthly_income_band": "50K_100K",
+      "poverty_class": "NEAR"
+    },
+    "gps": {
+      "lat": 27.16631,
+      "lng": 87.68273
+    },
+    "disability": null
+  },
+  {
+    "id": "cit-013",
+    "ward_id": "ward-004",
+    "name_np": "सुरेश मगर",
+    "name_en": "Suresh Magar",
+    "nid_masked": "****4613",
+    "nid_verified": true,
+    "sex": "MALE",
+    "dob": "1959-06-20",
+    "blood_group": "B+",
+    "religion": "Kirat",
+    "ethnicity": "Brahmin",
+    "mother_tongue": "Rai",
+    "tole": "Bhagwati Tole",
+    "digital_literacy": "ADVANCED",
+    "has_smartphone": true,
+    "sync_status": "conflict",
+    "is_active": true,
+    "employment_category": "RETIRED",
+    "income_band": "OVER_100K",
+    "consent_channel": "VERBAL_WITNESS",
+    "consent_recorded_at": "2026-02-25T05:30:00Z",
+    "created_at": "2025-12-05T05:30:00Z",
+    "family": [
+      {
+        "relation": "FATHER",
+        "name": "Bishnu Rai",
+        "citizenship_no": "12-01-73-06355",
+        "link_status": "pending"
+      },
+      {
+        "relation": "MOTHER",
+        "name": "Bishnu Maya Magar",
+        "citizenship_no": "12-01-72-07906",
+        "link_status": "pending"
+      }
+    ],
+    "employment": {
+      "citizen_id": "cit-013",
+      "category": "RETIRED",
+      "income_band": "5K_10K",
+      "details": {
+        "occupation_note": "Retired"
+      }
+    },
+    "education": {
+      "level": "PHD",
+      "institution_name": "Phidim Multiple Campus",
+      "institution_type": "PUBLIC",
+      "study_location": "NEPAL",
+      "is_dropout": true,
+      "dropout_reason": "Family responsibility",
+      "scholarship": null
+    },
+    "household": {
+      "id": "hh-013",
+      "house_type": "Own",
+      "construction_type": "Cement-Brick",
+      "room_count": 6,
+      "electricity_source": "Micro-hydro",
+      "water_source": "Piped",
+      "sanitation": "Flush toilet",
+      "internet_access": false,
+      "bank_account": true,
+      "monthly_income_band": "25K_50K",
+      "poverty_class": "BELOW"
+    },
+    "gps": {
+      "lat": 27.02011,
+      "lng": 87.75164
+    },
+    "disability": null
+  },
+  {
+    "id": "cit-014",
+    "ward_id": "ward-004",
+    "name_np": "गोपाल भट्टराई",
+    "name_en": "Gopal Bhattarai",
+    "nid_masked": "****6733",
+    "nid_verified": true,
+    "sex": "MALE",
+    "dob": "1960-01-26",
+    "blood_group": "O-",
+    "religion": "Hindu",
+    "ethnicity": "Limbu",
+    "mother_tongue": "Limbu",
+    "tole": "Tallo Gaun",
+    "digital_literacy": "BASIC",
+    "has_smartphone": true,
+    "sync_status": "synced",
+    "is_active": true,
+    "employment_category": "FARMER",
+    "income_band": "50K_100K",
+    "consent_channel": "WARD_OFFICE",
+    "consent_recorded_at": "2026-04-08T05:30:00Z",
+    "created_at": "2026-05-07T05:30:00Z",
+    "family": [
+      {
+        "relation": "FATHER",
+        "name": "Hari Prasad Limbu",
+        "citizenship_no": "12-01-74-04978",
+        "link_status": "linked"
+      },
+      {
+        "relation": "MOTHER",
+        "name": "Januka Limbu",
+        "citizenship_no": "12-01-72-02983",
+        "link_status": "linked"
+      }
+    ],
+    "employment": {
+      "citizen_id": "cit-014",
+      "category": "FARMER",
+      "income_band": "25K_50K",
+      "details": {
+        "land_area_ropani": 14.1,
+        "land_type": "Mixed",
+        "primary_crop": "Maize",
+        "irrigation_type": "Canal",
+        "agri_loan": false
+      }
+    },
+    "education": {
+      "level": "PHD",
+      "institution_name": "Phidim Multiple Campus",
+      "institution_type": "PUBLIC",
+      "study_location": "NEPAL",
+      "is_dropout": true,
+      "dropout_reason": "Family responsibility",
+      "scholarship": null
+    },
+    "household": {
+      "id": "hh-014",
+      "house_type": "Joint Family",
+      "construction_type": "RCC",
+      "room_count": 3,
+      "electricity_source": "Solar",
+      "water_source": "Piped",
+      "sanitation": "Flush toilet",
+      "internet_access": false,
+      "bank_account": false,
+      "monthly_income_band": "OVER_100K",
+      "poverty_class": "NEAR"
+    },
+    "gps": {
+      "lat": 27.15866,
+      "lng": 87.88601
+    },
+    "disability": null
+  },
+  {
+    "id": "cit-015",
+    "ward_id": "ward-004",
+    "name_np": "सबिता भट्टराई",
+    "name_en": "Sabita Bhattarai",
+    "nid_masked": "****2129",
+    "nid_verified": false,
+    "sex": "FEMALE",
+    "dob": "1949-02-11",
+    "blood_group": "O-",
+    "religion": "Kirat",
+    "ethnicity": "Limbu",
+    "mother_tongue": "Rai",
+    "tole": "Dovan",
+    "digital_literacy": "NONE",
+    "has_smartphone": true,
+    "sync_status": "synced",
+    "is_active": true,
+    "employment_category": "FOREIGN_ABROAD",
+    "income_band": "10K_25K",
+    "consent_channel": "VERBAL_WITNESS",
+    "consent_recorded_at": "2026-02-11T05:30:00Z",
+    "created_at": "2025-12-09T05:30:00Z",
+    "family": [
+      {
+        "relation": "FATHER",
+        "name": "Padam Limbu",
+        "citizenship_no": "12-01-75-07209",
+        "link_status": "pending"
+      },
+      {
+        "relation": "MOTHER",
+        "name": "Sita Kumari Limbu",
+        "citizenship_no": "12-01-73-06325",
+        "link_status": "linked"
+      }
+    ],
+    "employment": {
+      "citizen_id": "cit-015",
+      "category": "FOREIGN_ABROAD",
+      "income_band": "5K_10K",
+      "details": {
+        "country": "Qatar",
+        "visa_type": "EPS",
+        "employer_name": "Gulf Constructions Ltd",
+        "departure_date": "2024-01-04",
+        "expected_return": "2028-02-08",
+        "remittance_band": "25K_50K",
+        "doe_registered": true
+      }
+    },
+    "education": {
+      "level": "HIGHER_SECONDARY",
+      "institution_name": "Bhagawati Secondary School",
+      "institution_type": "COMMUNITY",
+      "study_location": "NEPAL",
+      "is_dropout": true,
+      "dropout_reason": "Family responsibility",
+      "scholarship": null
+    },
+    "household": {
+      "id": "hh-015",
+      "house_type": "Rented",
+      "construction_type": "Cement-Brick",
+      "room_count": 5,
+      "electricity_source": "Solar",
+      "water_source": "Spring",
+      "sanitation": "Pit latrine",
+      "internet_access": true,
+      "bank_account": true,
+      "monthly_income_band": "10K_25K",
+      "poverty_class": "NEAR"
+    },
+    "gps": {
+      "lat": 27.09755,
+      "lng": 87.78588
+    },
+    "disability": null
+  },
+  {
+    "id": "cit-016",
+    "ward_id": "ward-004",
+    "name_np": "विष्णु राई",
+    "name_en": "Bishnu Rai",
+    "nid_masked": "****5581",
+    "nid_verified": false,
+    "sex": "MALE",
+    "dob": "1985-04-14",
+    "blood_group": "O-",
+    "religion": "Kirat",
+    "ethnicity": "Limbu",
+    "mother_tongue": "Nepali",
+    "tole": "Bazar Line",
+    "digital_literacy": "BASIC",
+    "has_smartphone": false,
+    "sync_status": "synced",
+    "is_active": true,
+    "employment_category": "PRIVATE_SECTOR",
+    "income_band": "25K_50K",
+    "consent_channel": "FIELD",
+    "consent_recorded_at": "2026-01-17T05:30:00Z",
+    "created_at": "2025-11-26T05:30:00Z",
+    "family": [
+      {
+        "relation": "FATHER",
+        "name": "Dilip Tamang",
+        "citizenship_no": "12-01-73-06419",
+        "link_status": "pending"
+      },
+      {
+        "relation": "MOTHER",
+        "name": "Januka Limbu",
+        "citizenship_no": "12-01-73-05438",
+        "link_status": "pending"
+      }
+    ],
+    "employment": {
+      "citizen_id": "cit-016",
+      "category": "PRIVATE_SECTOR",
+      "income_band": "5K_10K",
+      "details": {
+        "occupation_note": "Private_Sector"
+      }
+    },
+    "education": {
+      "level": "MASTER",
+      "institution_name": "Phidim Multiple Campus",
+      "institution_type": "COMMUNITY",
+      "study_location": "NEPAL",
+      "is_dropout": true,
+      "dropout_reason": "Migration",
+      "scholarship": null
+    },
+    "household": {
+      "id": "hh-016",
+      "house_type": "Rented",
+      "construction_type": "RCC",
+      "room_count": 2,
+      "electricity_source": "Solar",
+      "water_source": "Well",
+      "sanitation": "Pit latrine",
+      "internet_access": true,
+      "bank_account": true,
+      "monthly_income_band": "OVER_100K",
+      "poverty_class": "ABOVE"
+    },
+    "gps": {
+      "lat": 27.14761,
+      "lng": 87.82139
+    },
+    "disability": null
+  },
+  {
+    "id": "cit-017",
+    "ward_id": "ward-004",
+    "name_np": "सरिता सुब्बा",
+    "name_en": "Sarita Subba",
+    "nid_masked": "****2958",
+    "nid_verified": false,
+    "sex": "FEMALE",
+    "dob": "1991-03-09",
+    "blood_group": "A-",
+    "religion": "Buddhist",
+    "ethnicity": "Gurung",
+    "mother_tongue": "Nepali",
+    "tole": "Dovan",
+    "digital_literacy": "INTERMEDIATE",
+    "has_smartphone": false,
+    "sync_status": "synced",
+    "is_active": true,
+    "employment_category": "UNEMPLOYED",
+    "income_band": "50K_100K",
+    "consent_channel": "VERBAL_WITNESS",
+    "consent_recorded_at": "2026-01-07T05:30:00Z",
+    "created_at": "2026-03-28T05:30:00Z",
+    "family": [
+      {
+        "relation": "FATHER",
+        "name": "Gopal Bhattarai",
+        "citizenship_no": "12-01-73-08216",
+        "link_status": "pending"
+      },
+      {
+        "relation": "MOTHER",
+        "name": "Maya Gurung",
+        "citizenship_no": "12-01-70-05136",
+        "link_status": "pending"
+      }
+    ],
+    "employment": {
+      "citizen_id": "cit-017",
+      "category": "UNEMPLOYED",
+      "income_band": "UNDER_5K",
+      "details": {
+        "duration_months": 15,
+        "skills": "Carpentry, Driving",
+        "employment_office_registered": false
+      }
+    },
+    "education": {
+      "level": "PRIMARY",
+      "institution_name": "Phidim Multiple Campus",
+      "institution_type": "PUBLIC",
+      "study_location": "NEPAL",
+      "is_dropout": false,
+      "dropout_reason": "Financial hardship",
+      "scholarship": null
+    },
+    "household": {
+      "id": "hh-017",
+      "house_type": "Joint Family",
+      "construction_type": "Stone-Mud",
+      "room_count": 4,
+      "electricity_source": "National Grid",
+      "water_source": "Piped",
+      "sanitation": "Pit latrine",
+      "internet_access": true,
+      "bank_account": false,
+      "monthly_income_band": "25K_50K",
+      "poverty_class": "BELOW"
+    },
+    "gps": {
+      "lat": 27.34909,
+      "lng": 87.82963
+    },
+    "disability": null
+  },
+  {
+    "id": "cit-018",
+    "ward_id": "ward-004",
+    "name_np": "हरि प्रसाद लिम्बु",
+    "name_en": "Hari Prasad Limbu",
+    "nid_masked": "****1878",
+    "nid_verified": true,
+    "sex": "MALE",
+    "dob": "1964-05-06",
+    "blood_group": "B+",
+    "religion": "Kirat",
+    "ethnicity": "Rai",
+    "mother_tongue": "Nepali",
+    "tole": "Bazar Line",
+    "digital_literacy": "ADVANCED",
+    "has_smartphone": false,
+    "sync_status": "synced",
+    "is_active": true,
+    "employment_category": "SELF_EMPLOYED",
+    "income_band": "50K_100K",
+    "consent_channel": "VERBAL_WITNESS",
+    "consent_recorded_at": "2026-04-12T05:30:00Z",
+    "created_at": "2026-01-26T05:30:00Z",
+    "family": [
+      {
+        "relation": "FATHER",
+        "name": "Hari Prasad Limbu",
+        "citizenship_no": "12-01-71-01043",
+        "link_status": "pending"
+      },
+      {
+        "relation": "MOTHER",
+        "name": "Laxmi Khadka",
+        "citizenship_no": "12-01-75-08699",
+        "link_status": "pending"
+      }
+    ],
+    "employment": {
+      "citizen_id": "cit-018",
+      "category": "SELF_EMPLOYED",
+      "income_band": "25K_50K",
+      "details": {
+        "occupation_note": "Self_Employed"
+      }
+    },
+    "education": {
+      "level": "HIGHER_SECONDARY",
+      "institution_name": "Phidim Multiple Campus",
+      "institution_type": "PRIVATE",
+      "study_location": "NEPAL",
+      "is_dropout": true,
+      "dropout_reason": "Migration",
+      "scholarship": null
+    },
+    "household": {
+      "id": "hh-018",
+      "house_type": "Rented",
+      "construction_type": "RCC",
+      "room_count": 6,
+      "electricity_source": "Micro-hydro",
+      "water_source": "Piped",
+      "sanitation": "Flush toilet",
+      "internet_access": true,
+      "bank_account": true,
+      "monthly_income_band": "OVER_100K",
+      "poverty_class": "BELOW"
+    },
+    "gps": {
+      "lat": 27.06282,
+      "lng": 87.66953
+    },
+    "disability": null
+  },
+  {
+    "id": "cit-019",
+    "ward_id": "ward-004",
+    "name_np": "विष्णु राई",
+    "name_en": "Bishnu Rai",
+    "nid_masked": "****2166",
+    "nid_verified": false,
+    "sex": "MALE",
+    "dob": "1983-02-05",
+    "blood_group": "B+",
+    "religion": "Kirat",
+    "ethnicity": "Gurung",
+    "mother_tongue": "Rai",
+    "tole": "Bazar Line",
+    "digital_literacy": "BASIC",
+    "has_smartphone": false,
+    "sync_status": "pending",
+    "is_active": true,
+    "employment_category": "STUDENT",
+    "income_band": "5K_10K",
+    "consent_channel": "FIELD",
+    "consent_recorded_at": "2026-05-03T05:30:00Z",
+    "created_at": "2026-05-21T05:30:00Z",
+    "family": [
+      {
+        "relation": "FATHER",
+        "name": "Ram Bahadur Thapa",
+        "citizenship_no": "12-01-70-04750",
+        "link_status": "linked"
+      },
+      {
+        "relation": "MOTHER",
+        "name": "Devi Sherpa",
+        "citizenship_no": "12-01-72-01659",
+        "link_status": "linked"
+      }
+    ],
+    "employment": {
+      "citizen_id": "cit-019",
+      "category": "STUDENT",
+      "income_band": "UNDER_5K",
+      "details": {
+        "institution_name": "Phidim Multiple Campus",
+        "level": "Bachelor",
+        "field_of_study": "Education",
+        "location": "Abroad"
+      }
+    },
+    "education": {
+      "level": "HIGHER_SECONDARY",
+      "institution_name": "Bhagawati Secondary School",
+      "institution_type": "PRIVATE",
+      "study_location": "NEPAL",
+      "is_dropout": true,
+      "dropout_reason": "Migration",
+      "scholarship": null
+    },
+    "household": {
+      "id": "hh-019",
+      "house_type": "Joint Family",
+      "construction_type": "Cement-Brick",
+      "room_count": 4,
+      "electricity_source": "Micro-hydro",
+      "water_source": "Tanker",
+      "sanitation": "Pit latrine",
+      "internet_access": true,
+      "bank_account": false,
+      "monthly_income_band": "UNDER_5K",
+      "poverty_class": "NEAR"
+    },
+    "gps": {
+      "lat": 27.29381,
+      "lng": 87.84149
+    },
+    "disability": null
+  },
+  {
+    "id": "cit-020",
+    "ward_id": "ward-004",
+    "name_np": "नरेश खड्का",
+    "name_en": "Naresh Khadka",
+    "nid_masked": "****8141",
+    "nid_verified": false,
+    "sex": "MALE",
+    "dob": "1983-07-05",
+    "blood_group": "AB+",
+    "religion": "Hindu",
+    "ethnicity": "Sherpa",
+    "mother_tongue": "Tamang",
+    "tole": "Mangalbare",
+    "digital_literacy": "INTERMEDIATE",
+    "has_smartphone": true,
+    "sync_status": "synced",
+    "is_active": true,
+    "employment_category": "FOREIGN_ABROAD",
+    "income_band": "OVER_100K",
+    "consent_channel": "WARD_OFFICE",
+    "consent_recorded_at": "2026-04-28T05:30:00Z",
+    "created_at": "2026-03-16T05:30:00Z",
+    "family": [
+      {
+        "relation": "FATHER",
+        "name": "Naresh Khadka",
+        "citizenship_no": "12-01-73-07770",
+        "link_status": "linked"
+      },
+      {
+        "relation": "MOTHER",
+        "name": "Sarita Subba",
+        "citizenship_no": "12-01-74-06927",
+        "link_status": "pending"
+      }
+    ],
+    "employment": {
+      "citizen_id": "cit-020",
+      "category": "FOREIGN_ABROAD",
+      "income_band": "25K_50K",
+      "details": {
+        "country": "Kuwait",
+        "visa_type": "EPS",
+        "employer_name": "Gulf Constructions Ltd",
+        "departure_date": "2025-07-07",
+        "expected_return": "2027-01-04",
+        "remittance_band": "5K_10K",
+        "doe_registered": true
+      }
+    },
+    "education": {
+      "level": "MASTER",
+      "institution_name": "Phidim Multiple Campus",
+      "institution_type": "PRIVATE",
+      "study_location": "NEPAL",
+      "is_dropout": true,
+      "dropout_reason": "Migration",
+      "scholarship": null
+    },
+    "household": {
+      "id": "hh-020",
+      "house_type": "Joint Family",
+      "construction_type": "RCC",
+      "room_count": 5,
+      "electricity_source": "National Grid",
+      "water_source": "Spring",
+      "sanitation": "Pit latrine",
+      "internet_access": false,
+      "bank_account": true,
+      "monthly_income_band": "25K_50K",
+      "poverty_class": "ABOVE"
+    },
+    "gps": {
+      "lat": 27.32997,
+      "lng": 87.60046
+    },
+    "disability": null
+  },
+  {
+    "id": "cit-021",
+    "ward_id": "ward-004",
+    "name_np": "राम बहादुर थापा",
+    "name_en": "Ram Bahadur Thapa",
+    "nid_masked": "****3146",
+    "nid_verified": true,
+    "sex": "MALE",
+    "dob": "1984-07-03",
+    "blood_group": "AB+",
+    "religion": "Christian",
+    "ethnicity": "Rai",
+    "mother_tongue": "Limbu",
+    "tole": "Tallo Gaun",
+    "digital_literacy": "BASIC",
+    "has_smartphone": true,
+    "sync_status": "conflict",
+    "is_active": true,
+    "employment_category": "GOVERNMENT",
+    "income_band": "50K_100K",
+    "consent_channel": "WARD_OFFICE",
+    "consent_recorded_at": "2026-01-18T05:30:00Z",
+    "created_at": "2026-02-24T05:30:00Z",
+    "family": [
+      {
+        "relation": "FATHER",
+        "name": "Bir Bahadur Sherpa",
+        "citizenship_no": "12-01-71-02143",
+        "link_status": "pending"
+      },
+      {
+        "relation": "MOTHER",
+        "name": "Bishnu Maya Magar",
+        "citizenship_no": "12-01-72-09318",
+        "link_status": "pending"
+      }
+    ],
+    "employment": {
+      "citizen_id": "cit-021",
+      "category": "GOVERNMENT",
+      "income_band": "UNDER_5K",
+      "details": {
+        "ministry": "Education",
+        "grade": "Gazetted",
+        "posting_district": "Panchthar",
+        "service_entry_year": 2019
+      }
+    },
+    "education": {
+      "level": "NO_FORMAL",
+      "institution_name": "Janata Primary School",
+      "institution_type": "PUBLIC",
+      "study_location": "NEPAL",
+      "is_dropout": false,
+      "dropout_reason": "Family responsibility",
+      "scholarship": null
+    },
+    "household": {
+      "id": "hh-021",
+      "house_type": "Rented",
+      "construction_type": "Wooden",
+      "room_count": 5,
+      "electricity_source": "Solar",
+      "water_source": "Tanker",
+      "sanitation": "Flush toilet",
+      "internet_access": false,
+      "bank_account": false,
+      "monthly_income_band": "5K_10K",
+      "poverty_class": "NEAR"
+    },
+    "gps": {
+      "lat": 27.07624,
+      "lng": 87.83975
+    },
+    "disability": {
+      "citizen_id": "cit-021",
+      "disability_type": "INTELLECTUAL",
+      "severity_body": 4,
+      "severity_activity": 0,
+      "severity_participation": 2,
+      "certificate_no": "DIS-70521",
+      "issuing_hospital": "Panchthar District Hospital",
+      "expiry_date": "2028-04-05"
+    }
+  },
+  {
+    "id": "cit-022",
+    "ward_id": "ward-005",
+    "name_np": "टेक बहादुर गुरुङ",
+    "name_en": "Tek Bahadur Gurung",
+    "nid_masked": "****9022",
+    "nid_verified": true,
+    "sex": "MALE",
+    "dob": "1955-10-22",
+    "blood_group": "AB+",
+    "religion": "Christian",
+    "ethnicity": "Chhetri",
+    "mother_tongue": "Tamang",
+    "tole": "Mangalbare",
+    "digital_literacy": "ADVANCED",
+    "has_smartphone": true,
+    "sync_status": "conflict",
+    "is_active": true,
+    "employment_category": "FOREIGN_ABROAD",
+    "income_band": "5K_10K",
+    "consent_channel": "VERBAL_WITNESS",
+    "consent_recorded_at": "2026-04-08T05:30:00Z",
+    "created_at": "2026-01-13T05:30:00Z",
+    "family": [
+      {
+        "relation": "FATHER",
+        "name": "Krishna Subba",
+        "citizenship_no": "12-01-73-03529",
+        "link_status": "linked"
+      },
+      {
+        "relation": "MOTHER",
+        "name": "Laxmi Khadka",
+        "citizenship_no": "12-01-72-06546",
+        "link_status": "pending"
+      }
+    ],
+    "employment": {
+      "citizen_id": "cit-022",
+      "category": "FOREIGN_ABROAD",
+      "income_band": "25K_50K",
+      "details": {
+        "country": "Saudi Arabia",
+        "visa_type": "EPS",
+        "employer_name": "Gulf Constructions Ltd",
+        "departure_date": "2025-09-09",
+        "expected_return": "2027-02-24",
+        "remittance_band": "OVER_100K",
+        "doe_registered": true
+      }
+    },
+    "education": {
+      "level": "SECONDARY",
+      "institution_name": "Janata Primary School",
+      "institution_type": "PRIVATE",
+      "study_location": "NEPAL",
+      "is_dropout": true,
+      "dropout_reason": "Migration",
+      "scholarship": null
+    },
+    "household": {
+      "id": "hh-022",
+      "house_type": "Rented",
+      "construction_type": "Stone-Mud",
+      "room_count": 5,
+      "electricity_source": "National Grid",
+      "water_source": "Well",
+      "sanitation": "Pit latrine",
+      "internet_access": true,
+      "bank_account": true,
+      "monthly_income_band": "UNDER_5K",
+      "poverty_class": "ABOVE"
+    },
+    "gps": {
+      "lat": 27.36418,
+      "lng": 87.60614
+    },
+    "disability": null
+  },
+  {
+    "id": "cit-023",
+    "ward_id": "ward-005",
+    "name_np": "दिलिप तामाङ",
+    "name_en": "Dilip Tamang",
+    "nid_masked": "****8994",
+    "nid_verified": false,
+    "sex": "MALE",
+    "dob": "1974-05-15",
+    "blood_group": "A+",
+    "religion": "Hindu",
+    "ethnicity": "Gurung",
+    "mother_tongue": "Tamang",
+    "tole": "Tallo Gaun",
+    "digital_literacy": "NONE",
+    "has_smartphone": true,
+    "sync_status": "synced",
+    "is_active": true,
+    "employment_category": "RETIRED",
+    "income_band": "UNDER_5K",
+    "consent_channel": "VERBAL_WITNESS",
+    "consent_recorded_at": "2025-12-10T05:30:00Z",
+    "created_at": "2026-05-14T05:30:00Z",
+    "family": [
+      {
+        "relation": "FATHER",
+        "name": "Krishna Subba",
+        "citizenship_no": "12-01-71-02293",
+        "link_status": "pending"
+      },
+      {
+        "relation": "MOTHER",
+        "name": "Nirmala Rai",
+        "citizenship_no": "12-01-75-04945",
+        "link_status": "pending"
+      }
+    ],
+    "employment": {
+      "citizen_id": "cit-023",
+      "category": "RETIRED",
+      "income_band": "25K_50K",
+      "details": {
+        "occupation_note": "Retired"
+      }
+    },
+    "education": {
+      "level": "PRIMARY",
+      "institution_name": "Janata Primary School",
+      "institution_type": "PRIVATE",
+      "study_location": "NEPAL",
+      "is_dropout": false,
+      "dropout_reason": "Financial hardship",
+      "scholarship": null
+    },
+    "household": {
+      "id": "hh-023",
+      "house_type": "Rented",
+      "construction_type": "RCC",
+      "room_count": 4,
+      "electricity_source": "Solar",
+      "water_source": "Spring",
+      "sanitation": "Pit latrine",
+      "internet_access": true,
+      "bank_account": true,
+      "monthly_income_band": "50K_100K",
+      "poverty_class": "NEAR"
+    },
+    "gps": {
+      "lat": 27.22637,
+      "lng": 87.91701
+    },
+    "disability": null
+  },
+  {
+    "id": "cit-024",
+    "ward_id": "ward-005",
+    "name_np": "सरिता सुब्बा",
+    "name_en": "Sarita Subba",
+    "nid_masked": "****8529",
+    "nid_verified": true,
+    "sex": "FEMALE",
+    "dob": "1951-03-27",
+    "blood_group": "O-",
+    "religion": "Hindu",
+    "ethnicity": "Sherpa",
+    "mother_tongue": "Tamang",
+    "tole": "Upallo Gaun",
+    "digital_literacy": "NONE",
+    "has_smartphone": true,
+    "sync_status": "synced",
+    "is_active": true,
+    "employment_category": "DAILY_WAGE",
+    "income_band": "10K_25K",
+    "consent_channel": "VERBAL_WITNESS",
+    "consent_recorded_at": "2026-03-24T05:30:00Z",
+    "created_at": "2025-12-27T05:30:00Z",
+    "family": [
+      {
+        "relation": "FATHER",
+        "name": "Tek Bahadur Gurung",
+        "citizenship_no": "12-01-70-01803",
+        "link_status": "pending"
+      },
+      {
+        "relation": "MOTHER",
+        "name": "Kamala Thapa",
+        "citizenship_no": "12-01-71-06772",
+        "link_status": "linked"
+      }
+    ],
+    "employment": {
+      "citizen_id": "cit-024",
+      "category": "DAILY_WAGE",
+      "income_band": "25K_50K",
+      "details": {
+        "occupation_note": "Daily_Wage"
+      }
+    },
+    "education": {
+      "level": "MASTER",
+      "institution_name": "Phidim Multiple Campus",
+      "institution_type": "PRIVATE",
+      "study_location": "NEPAL",
+      "is_dropout": false,
+      "dropout_reason": "Financial hardship",
+      "scholarship": null
+    },
+    "household": {
+      "id": "hh-024",
+      "house_type": "Rented",
+      "construction_type": "Cement-Brick",
+      "room_count": 2,
+      "electricity_source": "National Grid",
+      "water_source": "Tanker",
+      "sanitation": "Pit latrine",
+      "internet_access": false,
+      "bank_account": false,
+      "monthly_income_band": "10K_25K",
+      "poverty_class": "BELOW"
+    },
+    "gps": {
+      "lat": 27.39118,
+      "lng": 87.86329
+    },
+    "disability": null
+  },
+  {
+    "id": "cit-025",
+    "ward_id": "ward-006",
+    "name_np": "निर्मला राई",
+    "name_en": "Nirmala Rai",
+    "nid_masked": "****2591",
+    "nid_verified": false,
+    "sex": "FEMALE",
+    "dob": "1947-08-29",
+    "blood_group": "O-",
+    "religion": "Hindu",
+    "ethnicity": "Magar",
+    "mother_tongue": "Rai",
+    "tole": "Bhagwati Tole",
+    "digital_literacy": "INTERMEDIATE",
+    "has_smartphone": false,
+    "sync_status": "synced",
+    "is_active": true,
+    "employment_category": "STUDENT",
+    "income_band": "5K_10K",
+    "consent_channel": "WARD_OFFICE",
+    "consent_recorded_at": "2026-03-25T05:30:00Z",
+    "created_at": "2026-03-17T05:30:00Z",
+    "family": [
+      {
+        "relation": "FATHER",
+        "name": "Mohan Adhikari",
+        "citizenship_no": "12-01-75-07511",
+        "link_status": "pending"
+      },
+      {
+        "relation": "MOTHER",
+        "name": "Gita Rai",
+        "citizenship_no": "12-01-73-01228",
+        "link_status": "pending"
+      }
+    ],
+    "employment": {
+      "citizen_id": "cit-025",
+      "category": "STUDENT",
+      "income_band": "OVER_100K",
+      "details": {
+        "institution_name": "Phidim Multiple Campus",
+        "level": "Higher Secondary",
+        "field_of_study": "Management",
+        "location": "Nepal"
+      }
+    },
+    "education": {
+      "level": "PRIMARY",
+      "institution_name": "Janata Primary School",
+      "institution_type": "PRIVATE",
+      "study_location": "NEPAL",
+      "is_dropout": true,
+      "dropout_reason": "Family responsibility",
+      "scholarship": null
+    },
+    "household": {
+      "id": "hh-025",
+      "house_type": "Rented",
+      "construction_type": "Stone-Mud",
+      "room_count": 4,
+      "electricity_source": "Solar",
+      "water_source": "Spring",
+      "sanitation": "Pit latrine",
+      "internet_access": true,
+      "bank_account": true,
+      "monthly_income_band": "UNDER_5K",
+      "poverty_class": "BELOW"
+    },
+    "gps": {
+      "lat": 27.30166,
+      "lng": 87.69025
+    },
+    "disability": null
+  },
+  {
+    "id": "cit-026",
+    "ward_id": "ward-006",
+    "name_np": "गोपाल भट्टराई",
+    "name_en": "Gopal Bhattarai",
+    "nid_masked": "****7242",
+    "nid_verified": false,
+    "sex": "MALE",
+    "dob": "1948-02-06",
+    "blood_group": "O+",
+    "religion": "Hindu",
+    "ethnicity": "Gurung",
+    "mother_tongue": "Rai",
+    "tole": "Bhagwati Tole",
+    "digital_literacy": "INTERMEDIATE",
+    "has_smartphone": false,
+    "sync_status": "synced",
+    "is_active": true,
+    "employment_category": "FOREIGN_ABROAD",
+    "income_band": "5K_10K",
+    "consent_channel": "VERBAL_WITNESS",
+    "consent_recorded_at": "2026-05-23T05:30:00Z",
+    "created_at": "2025-12-28T05:30:00Z",
+    "family": [
+      {
+        "relation": "FATHER",
+        "name": "Bir Bahadur Sherpa",
+        "citizenship_no": "12-01-75-09850",
+        "link_status": "pending"
+      },
+      {
+        "relation": "MOTHER",
+        "name": "Nirmala Rai",
+        "citizenship_no": "12-01-75-03531",
+        "link_status": "pending"
+      }
+    ],
+    "employment": {
+      "citizen_id": "cit-026",
+      "category": "FOREIGN_ABROAD",
+      "income_band": "25K_50K",
+      "details": {
+        "country": "Saudi Arabia",
+        "visa_type": "EPS",
+        "employer_name": "Gulf Constructions Ltd",
+        "departure_date": "2025-12-17",
+        "expected_return": "2028-02-25",
+        "remittance_band": "OVER_100K",
+        "doe_registered": true
+      }
+    },
+    "education": {
+      "level": "MASTER",
+      "institution_name": "Phidim Multiple Campus",
+      "institution_type": "COMMUNITY",
+      "study_location": "NEPAL",
+      "is_dropout": false,
+      "dropout_reason": "Financial hardship",
+      "scholarship": null
+    },
+    "household": {
+      "id": "hh-026",
+      "house_type": "Own",
+      "construction_type": "RCC",
+      "room_count": 2,
+      "electricity_source": "Solar",
+      "water_source": "Tanker",
+      "sanitation": "Flush toilet",
+      "internet_access": true,
+      "bank_account": true,
+      "monthly_income_band": "50K_100K",
+      "poverty_class": "BELOW"
+    },
+    "gps": {
+      "lat": 27.15546,
+      "lng": 87.7484
+    },
+    "disability": null
+  },
+  {
+    "id": "cit-027",
+    "ward_id": "ward-007",
+    "name_np": "गोपाल भट्टराई",
+    "name_en": "Gopal Bhattarai",
+    "nid_masked": "****1536",
+    "nid_verified": false,
+    "sex": "MALE",
+    "dob": "1971-11-06",
+    "blood_group": "O+",
+    "religion": "Buddhist",
+    "ethnicity": "Sherpa",
+    "mother_tongue": "Rai",
+    "tole": "Tallo Gaun",
+    "digital_literacy": "INTERMEDIATE",
+    "has_smartphone": true,
+    "sync_status": "synced",
+    "is_active": true,
+    "employment_category": "HOMEMAKER",
+    "income_band": "OVER_100K",
+    "consent_channel": "FIELD",
+    "consent_recorded_at": "2026-01-20T05:30:00Z",
+    "created_at": "2025-12-25T05:30:00Z",
+    "family": [
+      {
+        "relation": "FATHER",
+        "name": "Naresh Khadka",
+        "citizenship_no": "12-01-71-04538",
+        "link_status": "linked"
+      },
+      {
+        "relation": "MOTHER",
+        "name": "Radha Tamang",
+        "citizenship_no": "12-01-71-01046",
+        "link_status": "pending"
+      }
+    ],
+    "employment": {
+      "citizen_id": "cit-027",
+      "category": "HOMEMAKER",
+      "income_band": "10K_25K",
+      "details": {
+        "occupation_note": "Homemaker"
+      }
+    },
+    "education": {
+      "level": "NO_FORMAL",
+      "institution_name": "Phidim Multiple Campus",
+      "institution_type": "PRIVATE",
+      "study_location": "NEPAL",
+      "is_dropout": false,
+      "dropout_reason": "Financial hardship",
+      "scholarship": null
+    },
+    "household": {
+      "id": "hh-027",
+      "house_type": "Rented",
+      "construction_type": "RCC",
+      "room_count": 7,
+      "electricity_source": "National Grid",
+      "water_source": "Piped",
+      "sanitation": "Flush toilet",
+      "internet_access": false,
+      "bank_account": true,
+      "monthly_income_band": "5K_10K",
+      "poverty_class": "ABOVE"
+    },
+    "gps": {
+      "lat": 27.08208,
+      "lng": 87.93193
+    },
+    "disability": null
+  },
+  {
+    "id": "cit-028",
+    "ward_id": "ward-007",
+    "name_np": "माया गुरुङ",
+    "name_en": "Maya Gurung",
+    "nid_masked": "****2801",
+    "nid_verified": false,
+    "sex": "FEMALE",
+    "dob": "1985-12-22",
+    "blood_group": "A+",
+    "religion": "Buddhist",
+    "ethnicity": "Limbu",
+    "mother_tongue": "Tamang",
+    "tole": "Tallo Gaun",
+    "digital_literacy": "INTERMEDIATE",
+    "has_smartphone": true,
+    "sync_status": "synced",
+    "is_active": true,
+    "employment_category": "RETIRED",
+    "income_band": "5K_10K",
+    "consent_channel": "FIELD",
+    "consent_recorded_at": "2026-05-26T05:30:00Z",
+    "created_at": "2026-05-07T05:30:00Z",
+    "family": [
+      {
+        "relation": "FATHER",
+        "name": "Naresh Khadka",
+        "citizenship_no": "12-01-72-08504",
+        "link_status": "linked"
+      },
+      {
+        "relation": "MOTHER",
+        "name": "Sita Kumari Limbu",
+        "citizenship_no": "12-01-73-07580",
+        "link_status": "pending"
+      }
+    ],
+    "employment": {
+      "citizen_id": "cit-028",
+      "category": "RETIRED",
+      "income_band": "OVER_100K",
+      "details": {
+        "occupation_note": "Retired"
+      }
+    },
+    "education": {
+      "level": "HIGHER_SECONDARY",
+      "institution_name": "Janata Primary School",
+      "institution_type": "PUBLIC",
+      "study_location": "NEPAL",
+      "is_dropout": true,
+      "dropout_reason": "Financial hardship",
+      "scholarship": null
+    },
+    "household": {
+      "id": "hh-028",
+      "house_type": "Rented",
+      "construction_type": "Cement-Brick",
+      "room_count": 4,
+      "electricity_source": "Micro-hydro",
+      "water_source": "Piped",
+      "sanitation": "Pit latrine",
+      "internet_access": true,
+      "bank_account": false,
+      "monthly_income_band": "UNDER_5K",
+      "poverty_class": "ABOVE"
+    },
+    "gps": {
+      "lat": 27.31329,
+      "lng": 87.94679
+    },
+    "disability": null
+  },
+  {
+    "id": "cit-029",
+    "ward_id": "ward-008",
+    "name_np": "गोपाल भट्टराई",
+    "name_en": "Gopal Bhattarai",
+    "nid_masked": "****6277",
+    "nid_verified": false,
+    "sex": "MALE",
+    "dob": "2001-11-13",
+    "blood_group": "B+",
+    "religion": "Hindu",
+    "ethnicity": "Tamang",
+    "mother_tongue": "Tamang",
+    "tole": "Salleri",
+    "digital_literacy": "ADVANCED",
+    "has_smartphone": false,
+    "sync_status": "synced",
+    "is_active": true,
+    "employment_category": "DAILY_WAGE",
+    "income_band": "50K_100K",
+    "consent_channel": "FIELD",
+    "consent_recorded_at": "2026-02-12T05:30:00Z",
+    "created_at": "2026-01-30T05:30:00Z",
+    "family": [
+      {
+        "relation": "FATHER",
+        "name": "Dilip Tamang",
+        "citizenship_no": "12-01-75-05176",
+        "link_status": "pending"
+      },
+      {
+        "relation": "MOTHER",
+        "name": "Maya Gurung",
+        "citizenship_no": "12-01-75-08770",
+        "link_status": "linked"
+      }
+    ],
+    "employment": {
+      "citizen_id": "cit-029",
+      "category": "DAILY_WAGE",
+      "income_band": "50K_100K",
+      "details": {
+        "occupation_note": "Daily_Wage"
+      }
+    },
+    "education": {
+      "level": "HIGHER_SECONDARY",
+      "institution_name": "Bhagawati Secondary School",
+      "institution_type": "COMMUNITY",
+      "study_location": "NEPAL",
+      "is_dropout": false,
+      "dropout_reason": "Family responsibility",
+      "scholarship": null
+    },
+    "household": {
+      "id": "hh-029",
+      "house_type": "Joint Family",
+      "construction_type": "Stone-Mud",
+      "room_count": 5,
+      "electricity_source": "Solar",
+      "water_source": "Well",
+      "sanitation": "Pit latrine",
+      "internet_access": false,
+      "bank_account": true,
+      "monthly_income_band": "25K_50K",
+      "poverty_class": "NEAR"
+    },
+    "gps": {
+      "lat": 27.29185,
+      "lng": 87.72502
+    },
+    "disability": {
+      "citizen_id": "cit-029",
+      "disability_type": "MENTAL",
+      "severity_body": 3,
+      "severity_activity": 2,
+      "severity_participation": 2,
+      "certificate_no": "DIS-87518",
+      "issuing_hospital": "Panchthar District Hospital",
+      "expiry_date": "2027-02-25"
+    }
+  },
+  {
+    "id": "cit-030",
+    "ward_id": "ward-008",
+    "name_np": "हरि प्रसाद लिम्बु",
+    "name_en": "Hari Prasad Limbu",
+    "nid_masked": "****7105",
+    "nid_verified": true,
+    "sex": "MALE",
+    "dob": "1969-09-19",
+    "blood_group": "A-",
+    "religion": "Hindu",
+    "ethnicity": "Chhetri",
+    "mother_tongue": "Limbu",
+    "tole": "Mangalbare",
+    "digital_literacy": "INTERMEDIATE",
+    "has_smartphone": false,
+    "sync_status": "synced",
+    "is_active": true,
+    "employment_category": "UNEMPLOYED",
+    "income_band": "25K_50K",
+    "consent_channel": "VERBAL_WITNESS",
+    "consent_recorded_at": "2026-05-26T05:30:00Z",
+    "created_at": "2026-03-27T05:30:00Z",
+    "family": [
+      {
+        "relation": "FATHER",
+        "name": "Padam Limbu",
+        "citizenship_no": "12-01-74-01430",
+        "link_status": "pending"
+      },
+      {
+        "relation": "MOTHER",
+        "name": "Sita Kumari Limbu",
+        "citizenship_no": "12-01-71-05477",
+        "link_status": "pending"
+      }
+    ],
+    "employment": {
+      "citizen_id": "cit-030",
+      "category": "UNEMPLOYED",
+      "income_band": "50K_100K",
+      "details": {
+        "duration_months": 22,
+        "skills": "Carpentry, Driving",
+        "employment_office_registered": false
+      }
+    },
+    "education": {
+      "level": "NO_FORMAL",
+      "institution_name": "Janata Primary School",
+      "institution_type": "COMMUNITY",
+      "study_location": "NEPAL",
+      "is_dropout": false,
+      "dropout_reason": "Financial hardship",
+      "scholarship": null
+    },
+    "household": {
+      "id": "hh-030",
+      "house_type": "Joint Family",
+      "construction_type": "Cement-Brick",
+      "room_count": 3,
+      "electricity_source": "National Grid",
+      "water_source": "Spring",
+      "sanitation": "Pit latrine",
+      "internet_access": true,
+      "bank_account": true,
+      "monthly_income_band": "50K_100K",
+      "poverty_class": "BELOW"
+    },
+    "gps": {
+      "lat": 27.32289,
+      "lng": 87.93806
+    },
+    "disability": null
+  },
+  {
+    "id": "cit-031",
+    "ward_id": "ward-009",
+    "name_np": "राधा तामाङ",
+    "name_en": "Radha Tamang",
+    "nid_masked": "****7566",
+    "nid_verified": true,
+    "sex": "FEMALE",
+    "dob": "1992-03-09",
+    "blood_group": "B+",
+    "religion": "Hindu",
+    "ethnicity": "Rai",
+    "mother_tongue": "Nepali",
+    "tole": "Mangalbare",
+    "digital_literacy": "ADVANCED",
+    "has_smartphone": true,
+    "sync_status": "synced",
+    "is_active": true,
+    "employment_category": "FARMER",
+    "income_band": "10K_25K",
+    "consent_channel": "WARD_OFFICE",
+    "consent_recorded_at": "2026-03-06T05:30:00Z",
+    "created_at": "2026-03-21T05:30:00Z",
+    "family": [
+      {
+        "relation": "FATHER",
+        "name": "Tek Bahadur Gurung",
+        "citizenship_no": "12-01-75-08972",
+        "link_status": "pending"
+      },
+      {
+        "relation": "MOTHER",
+        "name": "Sita Kumari Limbu",
+        "citizenship_no": "12-01-71-07475",
+        "link_status": "linked"
+      }
+    ],
+    "employment": {
+      "citizen_id": "cit-031",
+      "category": "FARMER",
+      "income_band": "OVER_100K",
+      "details": {
+        "land_area_ropani": 7.8,
+        "land_type": "Mixed",
+        "primary_crop": "Paddy",
+        "irrigation_type": "Rain-fed",
+        "agri_loan": true
+      }
+    },
+    "education": {
+      "level": "PRIMARY",
+      "institution_name": "Janata Primary School",
+      "institution_type": "PUBLIC",
+      "study_location": "NEPAL",
+      "is_dropout": true,
+      "dropout_reason": "Financial hardship",
+      "scholarship": null
+    },
+    "household": {
+      "id": "hh-031",
+      "house_type": "Rented",
+      "construction_type": "Cement-Brick",
+      "room_count": 7,
+      "electricity_source": "Solar",
+      "water_source": "Tanker",
+      "sanitation": "Pit latrine",
+      "internet_access": false,
+      "bank_account": true,
+      "monthly_income_band": "5K_10K",
+      "poverty_class": "ABOVE"
+    },
+    "gps": {
+      "lat": 27.04553,
+      "lng": 87.77197
+    },
+    "disability": null
+  },
+  {
+    "id": "cit-032",
+    "ward_id": "ward-009",
+    "name_np": "विष्णु राई",
+    "name_en": "Bishnu Rai",
+    "nid_masked": "****5186",
+    "nid_verified": true,
+    "sex": "MALE",
+    "dob": "1989-07-06",
+    "blood_group": "O+",
+    "religion": "Hindu",
+    "ethnicity": "Limbu",
+    "mother_tongue": "Rai",
+    "tole": "Mangalbare",
+    "digital_literacy": "BASIC",
+    "has_smartphone": true,
+    "sync_status": "synced",
+    "is_active": true,
+    "employment_category": "STUDENT",
+    "income_band": "25K_50K",
+    "consent_channel": "VERBAL_WITNESS",
+    "consent_recorded_at": "2025-12-10T05:30:00Z",
+    "created_at": "2026-04-11T05:30:00Z",
+    "family": [
+      {
+        "relation": "FATHER",
+        "name": "Padam Limbu",
+        "citizenship_no": "12-01-73-06928",
+        "link_status": "linked"
+      },
+      {
+        "relation": "MOTHER",
+        "name": "Bishnu Maya Magar",
+        "citizenship_no": "12-01-70-04986",
+        "link_status": "pending"
+      }
+    ],
+    "employment": {
+      "citizen_id": "cit-032",
+      "category": "STUDENT",
+      "income_band": "50K_100K",
+      "details": {
+        "institution_name": "Phidim Multiple Campus",
+        "level": "Higher Secondary",
+        "field_of_study": "Management",
+        "location": "Abroad"
+      }
+    },
+    "education": {
+      "level": "PHD",
+      "institution_name": "Janata Primary School",
+      "institution_type": "PUBLIC",
+      "study_location": "NEPAL",
+      "is_dropout": false,
+      "dropout_reason": "Financial hardship",
+      "scholarship": null
+    },
+    "household": {
+      "id": "hh-032",
+      "house_type": "Rented",
+      "construction_type": "RCC",
+      "room_count": 4,
+      "electricity_source": "Micro-hydro",
+      "water_source": "Tanker",
+      "sanitation": "Pit latrine",
+      "internet_access": false,
+      "bank_account": true,
+      "monthly_income_band": "UNDER_5K",
+      "poverty_class": "NEAR"
+    },
+    "gps": {
+      "lat": 27.00834,
+      "lng": 87.72991
+    },
+    "disability": null
+  }
+]

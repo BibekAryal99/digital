@@ -1,0 +1,62 @@
+[
+  {
+    "citizen_id": "cit-006",
+    "citizen_name": "Padam Limbu",
+    "ward_id": "ward-002",
+    "country": "Qatar",
+    "visa_type": "EPS",
+    "employer_name": "Gulf Constructions Ltd",
+    "departure_date": "2024-01-01",
+    "expected_return": "2027-09-13",
+    "remittance_band": "10K_25K",
+    "doe_registered": true
+  },
+  {
+    "citizen_id": "cit-015",
+    "citizen_name": "Sabita Bhattarai",
+    "ward_id": "ward-004",
+    "country": "Qatar",
+    "visa_type": "EPS",
+    "employer_name": "Gulf Constructions Ltd",
+    "departure_date": "2024-01-04",
+    "expected_return": "2028-02-08",
+    "remittance_band": "25K_50K",
+    "doe_registered": true
+  },
+  {
+    "citizen_id": "cit-020",
+    "citizen_name": "Naresh Khadka",
+    "ward_id": "ward-004",
+    "country": "Kuwait",
+    "visa_type": "EPS",
+    "employer_name": "Gulf Constructions Ltd",
+    "departure_date": "2025-07-07",
+    "expected_return": "2027-01-04",
+    "remittance_band": "5K_10K",
+    "doe_registered": true
+  },
+  {
+    "citizen_id": "cit-022",
+    "citizen_name": "Tek Bahadur Gurung",
+    "ward_id": "ward-005",
+    "country": "Saudi Arabia",
+    "visa_type": "EPS",
+    "employer_name": "Gulf Constructions Ltd",
+    "departure_date": "2025-09-09",
+    "expected_return": "2027-02-24",
+    "remittance_band": "OVER_100K",
+    "doe_registered": true
+  },
+  {
+    "citizen_id": "cit-026",
+    "citizen_name": "Gopal Bhattarai",
+    "ward_id": "ward-006",
+    "country": "Saudi Arabia",
+    "visa_type": "EPS",
+    "employer_name": "Gulf Constructions Ltd",
+    "departure_date": "2025-12-17",
+    "expected_return": "2028-02-25",
+    "remittance_band": "OVER_100K",
+    "doe_registered": true
+  }
+]

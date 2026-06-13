@@ -1,0 +1,328 @@
+[
+  {
+    "citizen_id": "cit-001",
+    "category": "RETIRED",
+    "income_band": "OVER_100K",
+    "details": {
+      "occupation_note": "Retired"
+    }
+  },
+  {
+    "citizen_id": "cit-002",
+    "category": "UNEMPLOYED",
+    "income_band": "10K_25K",
+    "details": {
+      "duration_months": 30,
+      "skills": "Carpentry, Driving",
+      "employment_office_registered": false
+    }
+  },
+  {
+    "citizen_id": "cit-003",
+    "category": "DAILY_WAGE",
+    "income_band": "10K_25K",
+    "details": {
+      "occupation_note": "Daily_Wage"
+    }
+  },
+  {
+    "citizen_id": "cit-004",
+    "category": "PRIVATE_SECTOR",
+    "income_band": "OVER_100K",
+    "details": {
+      "occupation_note": "Private_Sector"
+    }
+  },
+  {
+    "citizen_id": "cit-005",
+    "category": "FARMER",
+    "income_band": "10K_25K",
+    "details": {
+      "land_area_ropani": 10.3,
+      "land_type": "Khet",
+      "primary_crop": "Ginger",
+      "irrigation_type": "Tube-well",
+      "agri_loan": true
+    }
+  },
+  {
+    "citizen_id": "cit-006",
+    "category": "FOREIGN_ABROAD",
+    "income_band": "25K_50K",
+    "details": {
+      "country": "Qatar",
+      "visa_type": "EPS",
+      "employer_name": "Gulf Constructions Ltd",
+      "departure_date": "2024-01-01",
+      "expected_return": "2027-09-13",
+      "remittance_band": "10K_25K",
+      "doe_registered": true
+    }
+  },
+  {
+    "citizen_id": "cit-007",
+    "category": "RETIRED",
+    "income_band": "OVER_100K",
+    "details": {
+      "occupation_note": "Retired"
+    }
+  },
+  {
+    "citizen_id": "cit-008",
+    "category": "FARMER",
+    "income_band": "50K_100K",
+    "details": {
+      "land_area_ropani": 11.9,
+      "land_type": "Bari",
+      "primary_crop": "Maize",
+      "irrigation_type": "Rain-fed",
+      "agri_loan": false
+    }
+  },
+  {
+    "citizen_id": "cit-009",
+    "category": "GOVERNMENT",
+    "income_band": "50K_100K",
+    "details": {
+      "ministry": "Health",
+      "grade": "Non-Gazetted",
+      "posting_district": "Panchthar",
+      "service_entry_year": 2005
+    }
+  },
+  {
+    "citizen_id": "cit-010",
+    "category": "PRIVATE_SECTOR",
+    "income_band": "25K_50K",
+    "details": {
+      "occupation_note": "Private_Sector"
+    }
+  },
+  {
+    "citizen_id": "cit-011",
+    "category": "GOVERNMENT",
+    "income_band": "OVER_100K",
+    "details": {
+      "ministry": "Home Affairs",
+      "grade": "Non-Gazetted",
+      "posting_district": "Panchthar",
+      "service_entry_year": 2020
+    }
+  },
+  {
+    "citizen_id": "cit-012",
+    "category": "DAILY_WAGE",
+    "income_band": "10K_25K",
+    "details": {
+      "occupation_note": "Daily_Wage"
+    }
+  },
+  {
+    "citizen_id": "cit-013",
+    "category": "RETIRED",
+    "income_band": "5K_10K",
+    "details": {
+      "occupation_note": "Retired"
+    }
+  },
+  {
+    "citizen_id": "cit-014",
+    "category": "FARMER",
+    "income_band": "25K_50K",
+    "details": {
+      "land_area_ropani": 14.1,
+      "land_type": "Mixed",
+      "primary_crop": "Maize",
+      "irrigation_type": "Canal",
+      "agri_loan": false
+    }
+  },
+  {
+    "citizen_id": "cit-015",
+    "category": "FOREIGN_ABROAD",
+    "income_band": "5K_10K",
+    "details": {
+      "country": "Qatar",
+      "visa_type": "EPS",
+      "employer_name": "Gulf Constructions Ltd",
+      "departure_date": "2024-01-04",
+      "expected_return": "2028-02-08",
+      "remittance_band": "25K_50K",
+      "doe_registered": true
+    }
+  },
+  {
+    "citizen_id": "cit-016",
+    "category": "PRIVATE_SECTOR",
+    "income_band": "5K_10K",
+    "details": {
+      "occupation_note": "Private_Sector"
+    }
+  },
+  {
+    "citizen_id": "cit-017",
+    "category": "UNEMPLOYED",
+    "income_band": "UNDER_5K",
+    "details": {
+      "duration_months": 15,
+      "skills": "Carpentry, Driving",
+      "employment_office_registered": false
+    }
+  },
+  {
+    "citizen_id": "cit-018",
+    "category": "SELF_EMPLOYED",
+    "income_band": "25K_50K",
+    "details": {
+      "occupation_note": "Self_Employed"
+    }
+  },
+  {
+    "citizen_id": "cit-019",
+    "category": "STUDENT",
+    "income_band": "UNDER_5K",
+    "details": {
+      "institution_name": "Phidim Multiple Campus",
+      "level": "Bachelor",
+      "field_of_study": "Education",
+      "location": "Abroad"
+    }
+  },
+  {
+    "citizen_id": "cit-020",
+    "category": "FOREIGN_ABROAD",
+    "income_band": "25K_50K",
+    "details": {
+      "country": "Kuwait",
+      "visa_type": "EPS",
+      "employer_name": "Gulf Constructions Ltd",
+      "departure_date": "2025-07-07",
+      "expected_return": "2027-01-04",
+      "remittance_band": "5K_10K",
+      "doe_registered": true
+    }
+  },
+  {
+    "citizen_id": "cit-021",
+    "category": "GOVERNMENT",
+    "income_band": "UNDER_5K",
+    "details": {
+      "ministry": "Education",
+      "grade": "Gazetted",
+      "posting_district": "Panchthar",
+      "service_entry_year": 2019
+    }
+  },
+  {
+    "citizen_id": "cit-022",
+    "category": "FOREIGN_ABROAD",
+    "income_band": "25K_50K",
+    "details": {
+      "country": "Saudi Arabia",
+      "visa_type": "EPS",
+      "employer_name": "Gulf Constructions Ltd",
+      "departure_date": "2025-09-09",
+      "expected_return": "2027-02-24",
+      "remittance_band": "OVER_100K",
+      "doe_registered": true
+    }
+  },
+  {
+    "citizen_id": "cit-023",
+    "category": "RETIRED",
+    "income_band": "25K_50K",
+    "details": {
+      "occupation_note": "Retired"
+    }
+  },
+  {
+    "citizen_id": "cit-024",
+    "category": "DAILY_WAGE",
+    "income_band": "25K_50K",
+    "details": {
+      "occupation_note": "Daily_Wage"
+    }
+  },
+  {
+    "citizen_id": "cit-025",
+    "category": "STUDENT",
+    "income_band": "OVER_100K",
+    "details": {
+      "institution_name": "Phidim Multiple Campus",
+      "level": "Higher Secondary",
+      "field_of_study": "Management",
+      "location": "Nepal"
+    }
+  },
+  {
+    "citizen_id": "cit-026",
+    "category": "FOREIGN_ABROAD",
+    "income_band": "25K_50K",
+    "details": {
+      "country": "Saudi Arabia",
+      "visa_type": "EPS",
+      "employer_name": "Gulf Constructions Ltd",
+      "departure_date": "2025-12-17",
+      "expected_return": "2028-02-25",
+      "remittance_band": "OVER_100K",
+      "doe_registered": true
+    }
+  },
+  {
+    "citizen_id": "cit-027",
+    "category": "HOMEMAKER",
+    "income_band": "10K_25K",
+    "details": {
+      "occupation_note": "Homemaker"
+    }
+  },
+  {
+    "citizen_id": "cit-028",
+    "category": "RETIRED",
+    "income_band": "OVER_100K",
+    "details": {
+      "occupation_note": "Retired"
+    }
+  },
+  {
+    "citizen_id": "cit-029",
+    "category": "DAILY_WAGE",
+    "income_band": "50K_100K",
+    "details": {
+      "occupation_note": "Daily_Wage"
+    }
+  },
+  {
+    "citizen_id": "cit-030",
+    "category": "UNEMPLOYED",
+    "income_band": "50K_100K",
+    "details": {
+      "duration_months": 22,
+      "skills": "Carpentry, Driving",
+      "employment_office_registered": false
+    }
+  },
+  {
+    "citizen_id": "cit-031",
+    "category": "FARMER",
+    "income_band": "OVER_100K",
+    "details": {
+      "land_area_ropani": 7.8,
+      "land_type": "Mixed",
+      "primary_crop": "Paddy",
+      "irrigation_type": "Rain-fed",
+      "agri_loan": true
+    }
+  },
+  {
+    "citizen_id": "cit-032",
+    "category": "STUDENT",
+    "income_band": "50K_100K",
+    "details": {
+      "institution_name": "Phidim Multiple Campus",
+      "level": "Higher Secondary",
+      "field_of_study": "Management",
+      "location": "Abroad"
+    }
+  }
+]

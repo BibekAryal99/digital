@@ -1,0 +1,113 @@
+"use client";
+
+import { useMemo, useState } from "react";
+import { useAuth } from "@/lib/auth-context";
+import { useStore } from "@/hooks/useStore";
+import { store } from "@/lib/store";
+import { wards } from "@/lib/data";
+import {
+  PageHeader,
+  Card,
+  Table,
+  Badge,
+  Button,
+  Modal,
+  useToast,
+} from "@/components/ui";
+import type { Column } from "@/components/ui/Table";
+import type { User } from "@/types";
+import { formatDateTime, generateTempPassword } from "@/lib/utils";
+
+export default function WardAdminsPage() {
+  const { session } = useAuth();
+  const { toast } = useToast();
+  const munId = session?.jurisdiction_id ?? "mun-001";
+  const [users] = useStore(store.users);
+
+  const [resetUser, setResetUser] = useState<User | null>(null);
+  const [tempPassword, setTempPassword] = useState("");
+
+  const wardIds = useMemo(
+    () => new Set(wards.filter((w) => w.municipality_id === munId).map((w) => w.id)),
+    [munId]
+  );
+
+  const admins = useMemo(
+    () => users.filter((u) => u.role === "WARD_ADMIN" && wardIds.has(u.jurisdiction_id)),
+    [users, wardIds]
+  );
+
+  function toggleActive(u: User) {
+    store.setUsers(
+      store.users().map((x) => (x.id === u.id ? { ...x, is_active: !x.is_active } : x))
+    );
+    toast(u.is_active ? "Account disabled" : "Account enabled", "success");
+  }
+
+  function doReset(u: User) {
+    const pwd = generateTempPassword();
+    store.setUsers(
+      store.users().map((x) =>
+        x.id === u.id
+          ? { ...x, password: pwd, failed_logins: 0, locked_until: null, password_changed_at: new Date().toISOString() }
+          : x
+      )
+    );
+    setResetUser(u);
+    setTempPassword(pwd);
+  }
+
+  const columns: Column<User>[] = [
+    { key: "full_name", header: "Name", sortValue: (u) => u.full_name },
+    { key: "username", header: "Username", render: (u) => <span className="font-mono text-xs">{u.username}</span> },
+    { key: "jurisdiction_name", header: "Ward", sortValue: (u) => u.jurisdiction_name },
+    { key: "last_login", header: "Last login", render: (u) => formatDateTime(u.last_login) },
+    {
+      key: "status",
+      header: "Status",
+      render: (u) => <Badge tone={u.is_active ? "green" : "gray"}>{u.is_active ? "Active" : "Disabled"}</Badge>,
+    },
+    {
+      key: "actions",
+      header: "",
+      align: "right",
+      render: (u) => (
+        <div className="flex justify-end gap-2">
+          <Button size="sm" variant="outline" onClick={() => doReset(u)}>Reset password</Button>
+          <Button size="sm" variant={u.is_active ? "danger" : "primary"} onClick={() => toggleActive(u)}>
+            {u.is_active ? "Disable" : "Enable"}
+          </Button>
+        </div>
+      ),
+    },
+  ];
+
+  return (
+    <div>
+      <PageHeader title="Ward Admins" subtitle="Manage ward administrator accounts" />
+
+      <Card>
+        <Table columns={columns} rows={admins} rowKey={(u) => u.id} empty="No ward admins." />
+      </Card>
+
+      <Modal
+        open={resetUser !== null}
+        onClose={() => setResetUser(null)}
+        title="Password reset"
+        footer={<Button onClick={() => setResetUser(null)}>Done</Button>}
+      >
+        {resetUser && (
+          <div className="space-y-3">
+            <p className="text-sm text-slate-600">
+              A temporary password has been generated for <strong>{resetUser.full_name}</strong>.
+              Share it securely; the user must change it on next login.
+            </p>
+            <div className="rounded-lg bg-slate-900 px-4 py-3 text-center font-mono text-lg text-white">
+              {tempPassword}
+            </div>
+          </div>
+        )}
+      </Modal>
+    </div>
+  );
+}

@@ -1,0 +1,72 @@
+[
+  {
+    "id": "pol-001",
+    "title": "Address rising unemployment in Karnali",
+    "category": "EMPLOYMENT",
+    "description": "Unemployment rate in Karnali municipalities exceeds 22%, well above national average.",
+    "suggested_action": "Launch targeted skills & employment program; expand jobseeker registration.",
+    "suggested_deadline": "2026-08-12",
+    "province": "Karnali",
+    "status": "PENDING_REVIEW"
+  },
+  {
+    "id": "pol-002",
+    "title": "Disability certificate backlog in Madhesh",
+    "category": "HEALTH",
+    "description": "Over 1,200 disability ID applications pending hospital certification.",
+    "suggested_action": "Deploy mobile assessment camps with district hospitals.",
+    "suggested_deadline": "2026-07-28",
+    "province": "Madhesh",
+    "status": "ACKNOWLEDGED"
+  },
+  {
+    "id": "pol-003",
+    "title": "Remittance dependency in Gandaki",
+    "category": "EMPLOYMENT",
+    "description": "Over 35% of households depend on foreign remittance; high economic risk.",
+    "suggested_action": "Promote returnee reintegration & local enterprise grants.",
+    "suggested_deadline": "2026-09-11",
+    "province": "Gandaki",
+    "status": "IN_PROGRESS"
+  },
+  {
+    "id": "pol-004",
+    "title": "School dropout spike in Lumbini",
+    "category": "EDUCATION",
+    "description": "Secondary dropout rate increased 8% year on year.",
+    "suggested_action": "Expand scholarship coverage; targeted retention program.",
+    "suggested_deadline": "2026-10-11",
+    "province": "Lumbini",
+    "status": "PENDING_REVIEW"
+  },
+  {
+    "id": "pol-005",
+    "title": "Water & sanitation gap in Sudurpashchim",
+    "category": "INFRASTRUCTURE",
+    "description": "30% of households lack piped water access.",
+    "suggested_action": "Prioritise rural water supply infrastructure budget.",
+    "suggested_deadline": "2026-12-10",
+    "province": "Sudurpashchim",
+    "status": "COMPLETED"
+  },
+  {
+    "id": "pol-006",
+    "title": "Senior citizen allowance coverage in Bagmati",
+    "category": "BENEFITS",
+    "description": "Eligible seniors not enrolled estimated at 4,500.",
+    "suggested_action": "Automated eligibility detection rollout; door-to-door enrollment.",
+    "suggested_deadline": "2026-08-27",
+    "province": "Bagmati",
+    "status": "PENDING_REVIEW"
+  },
+  {
+    "id": "pol-007",
+    "title": "Monsoon disaster preparedness — Koshi",
+    "category": "DISASTER",
+    "description": "High-risk wards identified for landslide/flooding this monsoon.",
+    "suggested_action": "Pre-position relief; update vulnerable household registry.",
+    "suggested_deadline": "2026-07-13",
+    "province": "Koshi",
+    "status": "ACKNOWLEDGED"
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "id": "rule-001",
+    "rule_name": "Unemployment Allowance — Registered Jobseekers",
+    "benefit_type": "UNEMPLOYMENT_ID",
+    "condition_summary": "Unemployed > 6 months AND age 18-59",
+    "condition_expression": "{\"and\":[{\"==\":[\"employment_category\",\"UNEMPLOYED\"]},{\">\":[\"duration_months\",6]}]}",
+    "benefit_value": "NPR 2000/month",
+    "priority": 1,
+    "is_active": true,
+    "affected_count": 2059,
+    "created_at": "2026-03-04T05:30:00Z",
+    "history": [
+      {
+        "at": "2026-03-04T05:30:00Z",
+        "by": "Saudeep Adhikari",
+        "action": "Rule created"
+      },
+      {
+        "at": "2026-05-28T05:30:00Z",
+        "by": "Saudeep Adhikari",
+        "action": "Priority updated"
+      }
+    ]
+  },
+  {
+    "id": "rule-002",
+    "rule_name": "Disability ID — WHO ICF Severity >= 2",
+    "benefit_type": "DISABILITY_ID",
+    "condition_summary": "Disability severity (any axis) >= 2",
+    "condition_expression": "{\">=\":[\"max_severity\",2]}",
+    "benefit_value": "Card + NPR 3000/month",
+    "priority": 2,
+    "is_active": true,
+    "affected_count": 3076,
+    "created_at": "2026-05-01T05:30:00Z",
+    "history": [
+      {
+        "at": "2026-05-01T05:30:00Z",
+        "by": "Saudeep Adhikari",
+        "action": "Rule created"
+      },
+      {
+        "at": "2026-05-26T05:30:00Z",
+        "by": "Saudeep Adhikari",
+        "action": "Priority updated"
+      }
+    ]
+  },
+  {
+    "id": "rule-003",
+    "rule_name": "Senior Citizen Allowance",
+    "benefit_type": "SENIOR_CITIZEN",
+    "condition_summary": "Age >= 68 years",
+    "condition_expression": "{\">=\":[\"age\",68]}",
+    "benefit_value": "NPR 4000/month",
+    "priority": 3,
+    "is_active": true,
+    "affected_count": 3948,
+    "created_at": "2025-11-07T05:30:00Z",
+    "history": [
+      {
+        "at": "2025-11-07T05:30:00Z",
+        "by": "Saudeep Adhikari",
+        "action": "Rule created"
+      },
+      {
+        "at": "2026-05-26T05:30:00Z",
+        "by": "Saudeep Adhikari",
+        "action": "Priority updated"
+      }
+    ]
+  },
+  {
+    "id": "rule-004",
+    "rule_name": "Single Woman Allowance",
+    "benefit_type": "SINGLE_WOMAN",
+    "condition_summary": "Female AND (widow OR unmarried >= 60)",
+    "condition_expression": "{\"and\":[{\"==\":[\"sex\",\"FEMALE\"]},{\">=\":[\"age\",60]}]}",
+    "benefit_value": "NPR 2660/month",
+    "priority": 4,
+    "is_active": true,
+    "affected_count": 826,
+    "created_at": "2026-03-09T05:30:00Z",
+    "history": [
+      {
+        "at": "2026-03-09T05:30:00Z",
+        "by": "Saudeep Adhikari",
+        "action": "Rule created"
+      },
+      {
+        "at": "2026-06-10T05:30:00Z",
+        "by": "Saudeep Adhikari",
+        "action": "Priority updated"
+      }
+    ]
+  },
+  {
+    "id": "rule-005",
+    "rule_name": "Food Subsidy — Below Poverty Line",
+    "benefit_type": "FOOD_SUBSIDY",
+    "condition_summary": "Household poverty_class = BELOW",
+    "condition_expression": "{\"==\":[\"poverty_class\",\"BELOW\"]}",
+    "benefit_value": "Subsidised grain quota",
+    "priority": 5,
+    "is_active": true,
+    "affected_count": 3381,
+    "created_at": "2025-12-07T05:30:00Z",
+    "history": [
+      {
+        "at": "2025-12-07T05:30:00Z",
+        "by": "Saudeep Adhikari",
+        "action": "Rule created"
+      },
+      {
+        "at": "2026-05-28T05:30:00Z",
+        "by": "Saudeep Adhikari",
+        "action": "Priority updated"
+      }
+    ]
+  },
+  {
+    "id": "rule-006",
+    "rule_name": "Health Insurance Premium Support",
+    "benefit_type": "HEALTH_INSURANCE",
+    "condition_summary": "Income band UNDER_5K OR 5K_10K",
+    "condition_expression": "{\"in\":[\"income_band\",[\"UNDER_5K\",\"5K_10K\"]]}",
+    "benefit_value": "100% premium covered",
+    "priority": 6,
+    "is_active": false,
+    "affected_count": 3485,
+    "created_at": "2025-08-18T05:30:00Z",
+    "history": [
+      {
+        "at": "2025-08-18T05:30:00Z",
+        "by": "Saudeep Adhikari",
+        "action": "Rule created"
+      },
+      {
+        "at": "2026-05-30T05:30:00Z",
+        "by": "Saudeep Adhikari",
+        "action": "Priority updated"
+      }
+    ]
+  }
+]

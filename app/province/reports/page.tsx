@@ -17,7 +17,7 @@ import type { Column } from "@/components/ui/Table";
 import type { Grievance } from "@/types";
 import { downloadCsv } from "@/lib/csv";
 import { daysUntil, formatDate, humanize } from "@/lib/utils";
-import { Download } from "lucide-react";
+import Download from "@mui/icons-material/Download";
 
 export default function ProvinceReportsPage() {
   const { session } = useAuth();

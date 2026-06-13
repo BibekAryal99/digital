@@ -4,7 +4,7 @@ import { use } from "react";
 import { grievancesSeed } from "@/lib/data";
 import { Card, Badge } from "@/components/ui";
 import { formatDateTime, humanize } from "@/lib/utils";
-import { FileSearch } from "lucide-react";
+import FileSearch from "@mui/icons-material/FindInPage";
 
 export default function VerifyGrievancePage({
   params,

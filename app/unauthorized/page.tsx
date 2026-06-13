@@ -3,7 +3,7 @@
 import { useAuth } from "@/lib/auth-context";
 import { homePathForRole } from "@/lib/utils";
 import { Button } from "@/components/ui";
-import { ShieldX } from "lucide-react";
+import ShieldX from "@mui/icons-material/GppBad";
 
 export default function UnauthorizedPage() {
   const { session } = useAuth();

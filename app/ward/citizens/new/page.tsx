@@ -19,7 +19,8 @@ import {
 } from "@/components/ui";
 import type { Citizen, EmploymentCategory, EducationProfile, IncomeBand } from "@/types";
 import { cn } from "@/lib/utils";
-import { Check, ShieldCheck } from "lucide-react";
+import Check from "@mui/icons-material/Check";
+import ShieldCheck from "@mui/icons-material/VerifiedUser";
 
 const STEPS = [
   "Core Identity",

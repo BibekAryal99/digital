@@ -1,30 +1,28 @@
 import type { Tier } from "@/types";
-import {
-  LayoutDashboard,
-  Users,
-  IdCard,
-  MessageSquareWarning,
-  RefreshCw,
-  CheckSquare,
-  GitMerge,
-  HandCoins,
-  UserCog,
-  FileBarChart,
-  Building2,
-  BarChart3,
-  Map,
-  ScrollText,
-  ClipboardList,
-  Flag,
-  ShieldCheck,
-  Settings,
-  type LucideIcon,
-} from "lucide-react";
+import type { SvgIconComponent } from "@mui/icons-material";
+import LayoutDashboard from "@mui/icons-material/Dashboard";
+import Users from "@mui/icons-material/People";
+import IdCard from "@mui/icons-material/Badge";
+import MessageSquareWarning from "@mui/icons-material/ReportProblem";
+import RefreshCw from "@mui/icons-material/Sync";
+import CheckSquare from "@mui/icons-material/FactCheck";
+import GitMerge from "@mui/icons-material/Merge";
+import HandCoins from "@mui/icons-material/Payments";
+import UserCog from "@mui/icons-material/ManageAccounts";
+import FileBarChart from "@mui/icons-material/Assessment";
+import Building2 from "@mui/icons-material/Apartment";
+import BarChart3 from "@mui/icons-material/BarChart";
+import Map from "@mui/icons-material/Map";
+import ScrollText from "@mui/icons-material/Description";
+import ClipboardList from "@mui/icons-material/Assignment";
+import Flag from "@mui/icons-material/Flag";
+import ShieldCheck from "@mui/icons-material/VerifiedUser";
+import Settings from "@mui/icons-material/Settings";
 
 export interface NavItem {
   label: string;
   href: string;
-  icon: LucideIcon;
+  icon: SvgIconComponent;
 }
 
 export const NAV: Record<Tier | "SYSTEM", NavItem[]> = {

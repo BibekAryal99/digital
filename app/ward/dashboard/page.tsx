@@ -14,7 +14,11 @@ import {
   Button,
   PageHeader,
 } from "@/components/ui";
-import { Users, BadgeCheck, RefreshCw, IdCard, UserPlus } from "lucide-react";
+import Users from "@mui/icons-material/People";
+import BadgeCheck from "@mui/icons-material/Verified";
+import RefreshCw from "@mui/icons-material/Sync";
+import IdCard from "@mui/icons-material/Badge";
+import UserPlus from "@mui/icons-material/PersonAdd";
 import { formatDateTime } from "@/lib/utils";
 
 export default function WardDashboard() {

@@ -14,7 +14,10 @@ import {
   PageHeader,
 } from "@/components/ui";
 import { BarList } from "@/components/charts/BarList";
-import { Users, CheckSquare, GitMerge, IdCard } from "lucide-react";
+import Users from "@mui/icons-material/People";
+import CheckSquare from "@mui/icons-material/FactCheck";
+import GitMerge from "@mui/icons-material/Merge";
+import IdCard from "@mui/icons-material/Badge";
 import { humanize } from "@/lib/utils";
 
 export default function MunicipalityDashboard() {

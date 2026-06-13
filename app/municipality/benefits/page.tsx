@@ -25,7 +25,8 @@ import type { Column } from "@/components/ui/Table";
 import type { Citizen } from "@/types";
 import type { Disbursement } from "@/lib/store";
 import { formatDate, formatNpr, humanize } from "@/lib/utils";
-import { HandCoins, Users } from "lucide-react";
+import HandCoins from "@mui/icons-material/Payments";
+import Users from "@mui/icons-material/People";
 
 interface EligibleRow {
   citizen: Citizen;

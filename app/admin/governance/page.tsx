@@ -14,7 +14,10 @@ import {
 } from "@/components/ui";
 import { BarList } from "@/components/charts/BarList";
 import { humanize } from "@/lib/utils";
-import { ShieldCheck, FileLock2, Activity, Users } from "lucide-react";
+import ShieldCheck from "@mui/icons-material/VerifiedUser";
+import FileLock2 from "@mui/icons-material/Lock";
+import Activity from "@mui/icons-material/Timeline";
+import Users from "@mui/icons-material/People";
 
 export default function GovernancePage() {
   const [citizens] = useStore(store.citizens);

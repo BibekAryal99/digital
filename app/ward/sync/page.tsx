@@ -17,7 +17,10 @@ import {
 import type { SyncBatch } from "@/types";
 import type { Column } from "@/components/ui/Table";
 import { formatDateTime } from "@/lib/utils";
-import { AlertTriangle, CheckCircle2, Upload, XCircle } from "lucide-react";
+import AlertTriangle from "@mui/icons-material/Warning";
+import CheckCircle2 from "@mui/icons-material/CheckCircle";
+import Upload from "@mui/icons-material/Upload";
+import XCircle from "@mui/icons-material/Cancel";
 
 export default function SyncPage() {
   const { session } = useAuth();

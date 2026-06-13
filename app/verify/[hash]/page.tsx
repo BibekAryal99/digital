@@ -4,7 +4,8 @@ import { use } from "react";
 import { idCardsSeed, wardLabel } from "@/lib/data";
 import { Card, Badge } from "@/components/ui";
 import { formatDate, humanize, daysUntil } from "@/lib/utils";
-import { CheckCircle2, XCircle } from "lucide-react";
+import CheckCircle2 from "@mui/icons-material/CheckCircle";
+import XCircle from "@mui/icons-material/Cancel";
 
 export default function VerifyCardPage({
   params,

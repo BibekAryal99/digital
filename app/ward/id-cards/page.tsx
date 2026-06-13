@@ -19,7 +19,7 @@ import {
 import type { IdCard, CardType } from "@/types";
 import type { Column } from "@/components/ui/Table";
 import { formatDate, humanize } from "@/lib/utils";
-import { Plus } from "lucide-react";
+import Plus from "@mui/icons-material/Add";
 
 const CARD_TYPES = ["UNEMPLOYMENT", "DISABILITY", "SENIOR", "SINGLE_WOMAN", "FARMER"];
 const STATUSES = ["INITIATED", "PENDING_APPROVAL", "APPROVED", "COLLECTED", "EXPIRED", "REVOKED"];

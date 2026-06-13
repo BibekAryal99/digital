@@ -14,7 +14,10 @@ import {
   PageHeader,
 } from "@/components/ui";
 import { BarList } from "@/components/charts/BarList";
-import { Globe2, Users, Building2, ScrollText } from "lucide-react";
+import Globe2 from "@mui/icons-material/Public";
+import Users from "@mui/icons-material/People";
+import Building2 from "@mui/icons-material/Apartment";
+import ScrollText from "@mui/icons-material/Description";
 import { humanize } from "@/lib/utils";
 
 export default function CentralDashboard() {

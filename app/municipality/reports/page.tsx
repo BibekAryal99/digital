@@ -15,7 +15,8 @@ import {
 import { BarList } from "@/components/charts/BarList";
 import { downloadCsv } from "@/lib/csv";
 import { humanize } from "@/lib/utils";
-import { Download, Printer } from "lucide-react";
+import Download from "@mui/icons-material/Download";
+import Printer from "@mui/icons-material/Print";
 
 export default function ReportsPage() {
   const { session } = useAuth();

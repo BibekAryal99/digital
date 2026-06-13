@@ -14,7 +14,10 @@ import {
   PageHeader,
 } from "@/components/ui";
 import { BarList } from "@/components/charts/BarList";
-import { Building2, Users, MessageSquareWarning, IdCard } from "lucide-react";
+import Building2 from "@mui/icons-material/Apartment";
+import Users from "@mui/icons-material/People";
+import MessageSquareWarning from "@mui/icons-material/ReportProblem";
+import IdCard from "@mui/icons-material/Badge";
 import { humanize } from "@/lib/utils";
 
 export default function ProvinceDashboard() {

@@ -21,7 +21,7 @@ import {
 import type { GrievanceStatus } from "@/types";
 import { cn } from "@/lib/utils";
 import { daysSince, daysUntil, formatDateTime, humanize } from "@/lib/utils";
-import { ArrowLeft } from "lucide-react";
+import ArrowLeft from "@mui/icons-material/ArrowBack";
 
 export default function GrievanceDetailPage({
   params,

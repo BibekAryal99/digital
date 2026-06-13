@@ -22,7 +22,8 @@ import {
 import type { Citizen } from "@/types";
 import type { Column as Col } from "@/components/ui/Table";
 import { humanize, ageFromDob } from "@/lib/utils";
-import { Search, UserPlus } from "lucide-react";
+import Search from "@mui/icons-material/Search";
+import UserPlus from "@mui/icons-material/PersonAdd";
 
 const EMP_CATS = [
   "FARMER",

@@ -21,7 +21,7 @@ import {
 import type { Column } from "@/components/ui/Table";
 import type { EligibilityRule, BenefitType } from "@/types";
 import { formatDate } from "@/lib/utils";
-import { Plus } from "lucide-react";
+import Plus from "@mui/icons-material/Add";
 
 const BENEFITS = [
   "UNEMPLOYMENT_ID",

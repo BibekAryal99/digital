@@ -14,7 +14,9 @@ import {
 } from "@/components/ui";
 import { BarList, ColumnChart } from "@/components/charts/BarList";
 import { humanize } from "@/lib/utils";
-import { Accessibility, Plane, GraduationCap } from "lucide-react";
+import Accessibility from "@mui/icons-material/Accessible";
+import Plane from "@mui/icons-material/Flight";
+import GraduationCap from "@mui/icons-material/School";
 
 export default function ProvinceAnalyticsPage() {
   const { session } = useAuth();

@@ -5,7 +5,8 @@ import { useRouter } from "next/navigation";
 import { useAuth } from "@/lib/auth-context";
 import { homePathForRole } from "@/lib/utils";
 import { Button, Input, Card } from "@/components/ui";
-import { Eye, EyeOff } from "lucide-react";
+import Eye from "@mui/icons-material/Visibility";
+import EyeOff from "@mui/icons-material/VisibilityOff";
 
 const DEMO_ACCOUNTS = [
   { label: "Ward Admin", username: "ward.admin", password: "ward123" },

@@ -17,7 +17,9 @@ import { BarList, ColumnChart } from "@/components/charts/BarList";
 import type { Column } from "@/components/ui/Table";
 import type { Province } from "@/types";
 import { humanize } from "@/lib/utils";
-import { Users, Building2, ScrollText } from "lucide-react";
+import Users from "@mui/icons-material/People";
+import Building2 from "@mui/icons-material/Apartment";
+import ScrollText from "@mui/icons-material/Description";
 
 export default function CentralAnalyticsPage() {
   const [rules] = useStore(store.rules);

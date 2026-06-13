@@ -18,7 +18,9 @@ import {
 import type { IdCardStatus } from "@/types";
 import { cn } from "@/lib/utils";
 import { formatDate, formatDateTime, humanize } from "@/lib/utils";
-import { ArrowLeft, Check, Download } from "lucide-react";
+import ArrowLeft from "@mui/icons-material/ArrowBack";
+import Check from "@mui/icons-material/Check";
+import Download from "@mui/icons-material/Download";
 
 const FLOW: IdCardStatus[] = [
   "INITIATED",

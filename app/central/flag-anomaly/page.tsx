@@ -21,7 +21,7 @@ import {
 } from "@/components/ui";
 import type { AnomalyFlag } from "@/lib/store";
 import { formatDateTime, humanize } from "@/lib/utils";
-import { Flag } from "lucide-react";
+import Flag from "@mui/icons-material/Flag";
 
 const TYPES = ["DATA_INCONSISTENCY", "DUPLICATE_SUSPECTED", "MISSING_CONSENT", "OTHER"];
 

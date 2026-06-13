@@ -20,7 +20,10 @@ import {
 import type { Column } from "@/components/ui/Table";
 import type { Role, User } from "@/types";
 import { formatDateTime, generateTempPassword, humanize } from "@/lib/utils";
-import { UserPlus, Users, ShieldCheck, ShieldX } from "lucide-react";
+import UserPlus from "@mui/icons-material/PersonAdd";
+import Users from "@mui/icons-material/People";
+import ShieldCheck from "@mui/icons-material/VerifiedUser";
+import ShieldX from "@mui/icons-material/GppBad";
 
 const ROLES = ["WARD_ADMIN", "LOCAL_BODY_ADMIN", "PROVINCE_ADMIN", "CENTRAL_ADMIN"];
 

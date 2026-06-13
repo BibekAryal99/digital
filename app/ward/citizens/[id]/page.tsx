@@ -24,7 +24,8 @@ import {
 } from "@/components/ui";
 import type { EditApproval } from "@/types";
 import { ageFromDob, formatDate, formatDateTime, humanize } from "@/lib/utils";
-import { ArrowLeft, Pencil } from "lucide-react";
+import ArrowLeft from "@mui/icons-material/ArrowBack";
+import Pencil from "@mui/icons-material/Edit";
 
 const TABS = [
   { key: "identity", label: "Identity" },

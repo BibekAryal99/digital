@@ -20,7 +20,7 @@ import {
 import type { Grievance, GrievanceCategory } from "@/types";
 import type { Column } from "@/components/ui/Table";
 import { formatDate, humanize, generateTrackingCode } from "@/lib/utils";
-import { Plus } from "lucide-react";
+import Plus from "@mui/icons-material/Add";
 
 const CATEGORIES = [
   "DATA_INACCURACY",

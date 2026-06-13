@@ -5,7 +5,7 @@ import { Avatar } from "./Avatar";
 import { TierBadge } from "./TierBadge";
 import { Button } from "./Button";
 import { roleToTier } from "@/lib/utils";
-import { LogOut } from "lucide-react";
+import LogOut from "@mui/icons-material/Logout";
 
 export function Navbar() {
   const { session, logout } = useAuth();

@@ -6,7 +6,8 @@ import { useState } from "react";
 import { cn } from "@/lib/utils";
 import { NAV, TIER_ACCENT } from "@/lib/nav";
 import type { Tier } from "@/types";
-import { ChevronLeft, ChevronRight } from "lucide-react";
+import ChevronLeft from "@mui/icons-material/ChevronLeft";
+import ChevronRight from "@mui/icons-material/ChevronRight";
 
 interface SidebarProps {
   tier: Tier | "SYSTEM";
